@@ -9,6 +9,7 @@
   - [MDN - SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence)
 
 # Computer science
+## Miscellaneous
   - [Derandomization 1](http://web.cs.iastate.edu/~pavan/633/lec14.pdf)
   - [Derandomization 2](http://people.seas.harvard.edu/~salil/cs225/spring09/lecnotes/Chap3.pdf)
 ## Algorithmic information theory
