@@ -4,6 +4,9 @@
   - [Flash of unstyled content(FOUC)](https://en.wikipedia.org/wiki/Flash_of_unstyled_content)
 
 # Applicable
+## SVG
+  - [SVG can do that](http://talks.brennaobrien.com/svg/#/54)
+
 ## Perlin noise
   - [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
   - [MDN - SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence)
