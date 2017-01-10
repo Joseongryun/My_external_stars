@@ -2,9 +2,9 @@
 
 
 ## Knowledge base
-  - PLT(procedure linkage table)
-  - GOT(global offset table)
   - Lazy binding
+    - PLT(procedure linkage table)
+    - GOT(global offset table)
 
 ## Exploit techs
   - GOT(global offset table) Overwrite
