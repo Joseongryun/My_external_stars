@@ -8,3 +8,5 @@
   - Stack guard
   - SSP(stack smashing protection)
   - PIE(position independant executable)
+  - Stack Canary
+  - RELRO(relocation read-only)
