@@ -86,6 +86,9 @@
   - [For hacking newbies](http://blog.naver.com/93immm/220151646795)
   - [Black hat USA 2016](http://www.itworld.co.kr/news/100574)
 
+## Reverse engineering
+  - [How to figure out the entry points of ELFs](http://reverseengineering.stackexchange.com/a/3816/18736)
+
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
 
