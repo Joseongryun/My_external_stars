@@ -99,6 +99,7 @@
 
 ## Steganography & stegananalysis
   - [Some steganography & stegananalysis techs](http://www.guillermito2.net/stegano/tools/)
+  - [Steganography(Korean)](https://bpsecblog.wordpress.com/2016/08/21/amalmot_4/)
 
 ## Reverse engineering
   - [How to figure out the entry points of ELFs](http://reverseengineering.stackexchange.com/a/3816/18736)
