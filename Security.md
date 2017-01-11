@@ -14,9 +14,10 @@
   - Buffer overflow
   - Stack overflow
   - FSB(format string bug)
+  - Double free bug
 
 ## Anti-exploit techs
-  - [NX bit(No-eXecute)<sup>∋DEP(data execution prevention)</sup>](https://en.wikipedia.org/wiki/NX_bit)
+  - NX bit(No-eXecute)<sup>∋DEP(data execution prevention)</sup><sub>[@](http://s2kiess.blog.me/220027464834)[@](https://en.wikipedia.org/wiki/NX_bit)</sub>
   - ASCII armor<sub>[@](http://s2kiess.blog.me/220028141641)</sub><sup>≠[binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding)</sup>
   - ASLR(address space layout randomization)
   - Stack shield
