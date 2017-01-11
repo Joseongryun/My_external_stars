@@ -76,10 +76,16 @@
   - [Dotted and dotless I](https://en.wikipedia.org/wiki/Dotted_and_dotless_I)
 
 
+
 # Development
+
 ## General
   - [How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
   - [Great guides for you](http://yeogue.tistory.com/11)
+
+## Design patterns
+  - [Singletone](http://blog.naver.com/pjt3591oo/220906941890)
+
 
 
 # Security
