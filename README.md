@@ -62,6 +62,7 @@
   - [.ctors and .dtors section(Korean)](http://blog.naver.com/window__han/80173963615)
   - [What happens before the `main()` is called](https://kldp.org/node/68354)
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
+  - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
 
 
 # ARM
@@ -96,6 +97,7 @@
 ## General
   - [For hacking newbies](http://blog.naver.com/93immm/220151646795)
   - [Black hat USA 2016](http://www.itworld.co.kr/news/100574)
+  - [Vulnerabilities Every Bug Bounty Hunter should Know About – Web For Pentesters](https://securitytraning.com/web-for-pentesters-vulnerabilities/)
 
 ## Steganography & stegananalysis
   - [Some steganography & stegananalysis techs](http://www.guillermito2.net/stegano/tools/)
@@ -106,6 +108,7 @@
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
+  - [Union SQL injection(Korean)](http://m.blog.naver.com/koromoon/120172851234)
 
 ## Format string bug
   - [Format String Bug_ using _fake\_dtors](http://cafe.naver.com/secuholic/931)
@@ -133,6 +136,8 @@
   - [Wargame list](http://blog.sweetchip.kr/354)
   - [Reversing.kr](http://reversing.kr/challenge.php)
   - [LoS, a SQL injection wargame](https://github.com/red-velvet/los)
+  - [Load of BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
+  - [Google project Zero](https://googleprojectzero.blogspot.kr/)
