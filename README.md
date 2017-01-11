@@ -101,6 +101,8 @@
 
 ## Return-oriented programming
   - [Return-oriented programming explained easily](http://cd80.tistory.com/86)
+  - [Return oriented programming exploit(Korean)](http://teamcrak.tistory.com/332)
+  - [Return to Libc(Korean)](http://blog.naver.com/s2kiess/220024491744)
 
 ## Use After Free
   - [CWE(Common Weakness Enumeration) definitions - Use After Free](https://cwe.mitre.org/data/definitions/416.html)
