@@ -97,7 +97,7 @@
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
 
 ## Format string bug
-  - [_Format String Bug_ using _fake\_dtors_](http://cafe.naver.com/secuholic/931)
+  - [Format String Bug_ using _fake\_dtors](http://cafe.naver.com/secuholic/931)
 
 ## Return-oriented programming
   - [Return-oriented programming explained easily](http://cd80.tistory.com/86)
