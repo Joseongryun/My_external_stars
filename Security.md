@@ -13,10 +13,11 @@
       - RTL chaining
   - Buffer overflow
   - Stack overflow
+  - FSB(format string bug)
 
 ## Anti-exploit techs
   - [NX bit(No-eXecute)<sup>∋DEP(data execution prevention)</sup>](https://en.wikipedia.org/wiki/NX_bit)
-  - ASCII armor<sup>≠[binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding)</sup>
+  - ASCII armor<sub>[@](http://s2kiess.blog.me/220028141641)</sub><sup>≠[binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding)</sup>
   - ASLR(address space layout randomization)
   - Stack shield
   - Stack guard
