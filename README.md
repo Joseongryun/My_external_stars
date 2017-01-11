@@ -81,10 +81,14 @@
   - [How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
   - [Great guides for you](http://yeogue.tistory.com/11)
 
+
 # Security
 ## General
   - [For hacking newbies](http://blog.naver.com/93immm/220151646795)
   - [Black hat USA 2016](http://www.itworld.co.kr/news/100574)
+
+## Steganography & stegananalysis
+  - [Some steganography & stegananalysis techs](http://www.guillermito2.net/stegano/tools/)
 
 ## Reverse engineering
   - [How to figure out the entry points of ELFs](http://reverseengineering.stackexchange.com/a/3816/18736)
