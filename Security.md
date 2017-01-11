@@ -7,10 +7,12 @@
     - GOT(global offset table)
 
 ## Exploit techs
-  - GOT(global offset table) Overwrite
+  - ROP(return oriented programming)
+    - GOT(global offset table) Overwrite
+    - RTL(return to libc)
+      - RTL chaining
   - Buffer overflow
   - Stack overflow
-  - ROP(return oriented programming)
 
 ## Anti-exploit techs
   - [NX bit(No-eXecute)<sup>∋DEP(data execution prevention)</sup>](https://en.wikipedia.org/wiki/NX_bit)
