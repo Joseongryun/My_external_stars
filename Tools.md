@@ -17,3 +17,6 @@
 ## Steganography / steganalysis tools
   - [OpenPuff](http://embeddedsw.net/OpenPuff_Steganography_Home.html)
   - OpenStego
+
+## QR code reader
+  - [ZXing decoder **online**](https://zxing.org/w/decode.jspx)
