@@ -12,3 +12,7 @@
 
 ## Audio manipulation tools
   - [**Online** audio spectrum analyzer/audio cutter](http://mp3cut.net/)
+
+## Steganography / steganalysis tools
+  - [OpenPuff](http://embeddedsw.net/OpenPuff_Steganography_Home.html)
+  - OpenStego
