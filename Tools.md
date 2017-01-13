@@ -6,6 +6,7 @@
 
 ## Decryption tools
   - [**Online** Vigenere solver](https://www.guballa.de/vigenere-solver)
+  - [**Online** substitution cipher solver, _quipqiup_.](http://quipqiup.com/)
 
 ## Decompilers
   - [**Online** executable decompiler](http://decompiler.fit.vutbr.cz)
