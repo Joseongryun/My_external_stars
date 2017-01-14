@@ -20,3 +20,9 @@
 
 ## QR code reader
   - [ZXing decoder **online**](https://zxing.org/w/decode.jspx)
+
+## Code beautifiers
+  - [**Online** PHP formatter](http://beta.phpformatter.com/)
+
+## Code obfuscators/deobfuscators
+  - [**Online** PHP deobfuscator, _unPHP_](https://www.unphp.net)
