@@ -99,6 +99,9 @@
   - [Black hat USA 2016](http://www.itworld.co.kr/news/100574)
   - [Vulnerabilities Every Bug Bounty Hunter should Know About – Web For Pentesters](https://securitytraning.com/web-for-pentesters-vulnerabilities/)
 
+## Cryptology
+  - [_Korean Cyber University_ - Basic cryptology](http://system.kcu.ac/opendept/crypto/sub/sub02_1.htm)
+
 ## Steganography & stegananalysis
   - [Some steganography & stegananalysis techs](http://www.guillermito2.net/stegano/tools/)
   - [Steganography(Korean)](https://bpsecblog.wordpress.com/2016/08/21/amalmot_4/)
