@@ -98,6 +98,8 @@
   - [For hacking newbies](http://blog.naver.com/93immm/220151646795)
   - [Black hat USA 2016](http://www.itworld.co.kr/news/100574)
   - [Vulnerabilities Every Bug Bounty Hunter should Know About – Web For Pentesters](https://securitytraning.com/web-for-pentesters-vulnerabilities/)
+  - [_Phrack.org_ - Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622](http://phrack.org/papers/attacking_javascript_engines.html)
+  - [Offensive computer security lectures](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 
 ## Cryptology
   - [_Korean Cyber University_ - Basic cryptology](http://system.kcu.ac/opendept/crypto/sub/sub02_1.htm)
@@ -108,6 +110,7 @@
 
 ## Reverse engineering
   - [How to figure out the entry points of ELFs](http://reverseengineering.stackexchange.com/a/3816/18736)
+  - [Basic reversing(Korean)](http://blog.naver.com/hack_ple/220884255393)
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
@@ -134,13 +137,15 @@
   - [Pwnable.kr - Rookies - tiny_easy write-up](http://www.sheepshellcode.com/blog/2015/09/02/a-tiny-easy-ctf-challenge/)
   - [Reversing.kr - Easy_UnpackMe write-up](http://blog.naver.com/shj1126zzang/220144025074)
   - [Mathboy's write-ups(Korean)](http://blog.naver.com/mathboy7/220211105861)
+  - [Lord of BoF - gremlin write-up](http://larrypicks.tistory.com/17)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
   - [Reversing.kr](http://reversing.kr/challenge.php)
-  - [LoS, a SQL injection wargame](https://github.com/red-velvet/los)
   - [Load of BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
+  - [Load of SQL injection(LOS)](https://github.com/red-velvet/los)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
   - [Google project Zero](https://googleprojectzero.blogspot.kr/)
+  - [Phrack](http://phrack.org/issues/69/1.html)
