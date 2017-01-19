@@ -55,7 +55,7 @@
 
 # Linux
   - [Stack layout in Linux](http://www.win.tue.nl/~aeb/linux/hh/stack-layout.html)
-  - [About _.bash\_*_ files(Korean)](http://ys0317.blog.me/140050168564)
+  - [About `.bash_*` files(Korean)](http://ys0317.blog.me/140050168564)
   - [GOT overwrite(Korean)](http://bbolmin.tistory.com/75)
   - [GCC's .ctors and .dtors section(Korean)](http://bbolmin.tistory.com/34)
   - [Abusing .CTORS and .DTORS for fun & profit](http://blog.naver.com/sokoban/80018591062)
@@ -63,6 +63,8 @@
   - [What happens before the `main()` is called](https://kldp.org/node/68354)
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
+  - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
+  - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
 
 
 # ARM
@@ -137,7 +139,9 @@
   - [Pwnable.kr - Rookies - tiny_easy write-up](http://www.sheepshellcode.com/blog/2015/09/02/a-tiny-easy-ctf-challenge/)
   - [Reversing.kr - Easy_UnpackMe write-up](http://blog.naver.com/shj1126zzang/220144025074)
   - [Mathboy's write-ups(Korean)](http://blog.naver.com/mathboy7/220211105861)
-  - [Lord of BoF - gremlin write-up](http://larrypicks.tistory.com/17)
+  - [Lord of BoF - gremlin write-up(Korean)](http://larrypicks.tistory.com/17)
+  - [TJCTF - oneshot write-up(Korean)](http://s0ngsari.tistory.com/368)
+  - [CodeGate CTF 2016 - Pwnable - Watermelon write-up(Korean)](https://bpsecblog.wordpress.com/2016/03/26/codegate2016_watermelon/)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
