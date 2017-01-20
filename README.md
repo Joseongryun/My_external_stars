@@ -103,6 +103,10 @@
   - [_Phrack.org_ - Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622](http://phrack.org/papers/attacking_javascript_engines.html)
   - [Offensive computer security lectures](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 
+## Shellcodes
+  - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
+  - [English shellcode](http://www.cs.jhu.edu/~sam/ccs243-mason.pdf)
+
 ## Cryptology
   - [_Korean Cyber University_ - Basic cryptology](http://system.kcu.ac/opendept/crypto/sub/sub02_1.htm)
 
