@@ -12,7 +12,7 @@
     - Buffer overflow<sup>＝buffer overrun</sup><sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow)</sub>
     - Stack overflow
     - FSB(format string bug)<sub>[@](http://resources.infosecinstitute.com/format-string-bug-exploration)</sub>
-    - Heap corruption
+    - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
       - Heap-based overflow<sup>?</sup>
       - Heap buffer overflow
       - Double free bug
