@@ -26,3 +26,6 @@
 
 ## Code obfuscators/deobfuscators
   - [**Online** PHP deobfuscator, _unPHP_](https://www.unphp.net)
+
+## Disassemblers
+  - [Online disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
