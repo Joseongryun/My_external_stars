@@ -2,6 +2,7 @@
 
 
 ## Knowledge base
+  - Position-independent code<sub>(instructions being self-contained and ready to take over control of a processor regardless of its current state)</sub>
   - Lazy binding
     - PLT(procedure linkage table)
     - GOT(global offset table)
