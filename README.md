@@ -75,6 +75,9 @@
 # English
 ## General
   - [Spoken mathematics](http://web.efzg.hr/dok/MAT/vkojic/Larrys_speakeasy.pdf)
+  - [Diffrence in between “indeed,” “obviously,” and “of course”](http://ell.stackexchange.com/questions/8817/diffrence-in-between-indeed-obviously-and-of-course)
+  - [“Of Course” and “Obviously” in writing](http://casnocha.com/2008/08/of-course-and-o.html)
+  - [An English word, `tabulate`.](http://www.dictionary.com/browse/tabulation)
   
 ## Font
   - [Dotted and dotless I](https://en.wikipedia.org/wiki/Dotted_and_dotless_I)
@@ -105,6 +108,8 @@
   - [Offensive computer security lectures](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
   - [Hacking: The Art of Exploitation](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
   - [Wargames and documents for pwnable(system hacking)(Korean)](http://err0rless313.tistory.com/entry/Pwnable-%EC%9B%8C%EA%B2%8C%EC%9E%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC)
+  - [Defeating Memory Corruption Attacks via Pointer Taintedness Detection](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DSN_05_Pointer_Taintedness.pdf)
+  - [The almost complete history of memory corruption attacks](https://media.blackhat.com/bh-us-10/whitepapers/Meer/BlackHat-USA-2010-Meer-History-of-Memory-Corruption-Attacks-wp.pdf)
 
 ## Shellcodes
   - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
