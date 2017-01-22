@@ -2,7 +2,7 @@
 
 
 ## Knowledge base
-  - Position-independent code<sub>(instructions being self-contained and ready to take over control of a processor regardless of its current state)</sub>
+  - Position-independent code<sub>[@](https://en.wikipedia.org/wiki/Position-independent_code)</sub>
   - Lazy binding
     - PLT(procedure linkage table)
     - GOT(global offset table)
