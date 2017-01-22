@@ -12,6 +12,7 @@
 
 ## Assembly
   - [Important operations in Intel assembly(Korean)](http://gall.dcinside.com/board/view/?id=programming&no=485176)
+  - [x86 Instruction Set Reference - POPA/POPAD(Pop All General-Purpose Registers)](http://x86.renejeschke.de/html/file_module_x86_id_249.html)
 
 
 # Web
@@ -102,10 +103,14 @@
   - [Vulnerabilities Every Bug Bounty Hunter should Know About – Web For Pentesters](https://securitytraning.com/web-for-pentesters-vulnerabilities/)
   - [_Phrack.org_ - Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622](http://phrack.org/papers/attacking_javascript_engines.html)
   - [Offensive computer security lectures](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
+  - [Hacking: The Art of Exploitation](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
+  - [Wargames and documents for pwnable(system hacking)(Korean)](http://err0rless313.tistory.com/entry/Pwnable-%EC%9B%8C%EA%B2%8C%EC%9E%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC)
 
 ## Shellcodes
   - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
   - [English shellcode](http://www.cs.jhu.edu/~sam/ccs243-mason.pdf)
+  - [_Phrack.org_ - Writing IA32 alphanumeric shellcodes](http://phrack.org/issues/57/15.html)
+  - [_y0ubat_ - Writing Alphanumeric shellcode(ASCII shellcode)s(Korean)](http://y0ubat.tistory.com/158)
 
 ## Cryptology
   - [_Korean Cyber University_ - Basic cryptology](http://system.kcu.ac/opendept/crypto/sub/sub02_1.htm)
@@ -129,6 +134,7 @@
   - [Return-oriented programming explained easily](http://cd80.tistory.com/86)
   - [Return oriented programming exploit(Korean)](http://teamcrak.tistory.com/332)
   - [Return to Libc(Korean)](http://blog.naver.com/s2kiess/220024491744)
+  - [Return Oriented Programming and ROPgadget tool](http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/)
 
 ## Use After Free
   - [CWE(Common Weakness Enumeration) definitions - Use After Free](https://cwe.mitre.org/data/definitions/416.html)
