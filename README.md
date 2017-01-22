@@ -65,7 +65,7 @@
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
-  - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
+  - [Stack layout](https://www.win.tue.nl/~aeb/linux/hh/stack-layout.html)
 
 
 # ARM
@@ -157,12 +157,13 @@
   - [Lord of BoF - gremlin write-up(Korean)](http://larrypicks.tistory.com/17)
   - [TJCTF - oneshot write-up(Korean)](http://s0ngsari.tistory.com/368)
   - [CodeGate CTF 2016 - Pwnable - Watermelon write-up(Korean)](https://bpsecblog.wordpress.com/2016/03/26/codegate2016_watermelon/)
+  - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
   - [Reversing.kr](http://reversing.kr/challenge.php)
-  - [Load of BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
-  - [Load of SQL injection(LOS)](https://github.com/red-velvet/los)
+  - [The load of the BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
+  - [The load of SQL injection(LOS)](https://github.com/red-velvet/los)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
