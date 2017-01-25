@@ -55,7 +55,7 @@
 
 
 # Linux
-  - [Stack layout in Linux](http://www.win.tue.nl/~aeb/linux/hh/stack-layout.html)
+  - [Stack layout in Linux](https://www.win.tue.nl/~aeb/linux/hh/stack-layout.html)
   - [About `.bash_*` files(Korean)](http://ys0317.blog.me/140050168564)
   - [GOT overwrite(Korean)](http://bbolmin.tistory.com/75)
   - [GCC's .ctors and .dtors section(Korean)](http://bbolmin.tistory.com/34)
@@ -65,7 +65,6 @@
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
-  - [Stack layout](https://www.win.tue.nl/~aeb/linux/hh/stack-layout.html)
 
 
 # ARM
