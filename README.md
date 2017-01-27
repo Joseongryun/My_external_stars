@@ -66,6 +66,7 @@
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
   - [System call convention(Korean)](http://operatingsystems.tistory.com/entry/Kernel-System-Call-Calling-Convention)
+  - [Linux system call table](http://www.informatik.htw-dresden.de/~beck/ASM/syscall_list.html)
 
 
 # ARM
@@ -147,6 +148,9 @@
   - [Shayete's article about _Use After Free_(Korean)](http://shayete.tistory.com/entry/7-Use-After-Free)
   - [GreHack - Statically Detecting Use After Free on Binary Code](http://binsec.gforge.inria.fr/pdf/detection-use-after-free-GREHACK13.pdf)
 
+## SSRF
+  - [FaceBook ImageMagick SSRF](http://4lemon.ru/2017-01-17_facebook_imagetragick_remote_code_execution.html)
+
 ## Write-ups
   - [Pwnable.kr - Toddler's bottle - passcode write-up](http://blog.naver.com/als0414_/220799939354)
   - [Pwnable.kr - Toddler's bottle - uaf write-up(Korean)](http://zairo.tistory.com/279)
@@ -165,6 +169,7 @@
   - [Reversing.kr](http://reversing.kr/challenge.php)
   - [The load of the BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
   - [The load of SQL injection(LOS)](https://github.com/red-velvet/los)
+  - [pwnable.tw](https://pwnable.tw/)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
