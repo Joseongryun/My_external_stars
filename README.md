@@ -65,6 +65,7 @@
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
+  - [System call convention(Korean)](http://operatingsystems.tistory.com/entry/Kernel-System-Call-Calling-Convention)
 
 
 # ARM
@@ -109,6 +110,7 @@
   - [Wargames and documents for pwnable(system hacking)(Korean)](http://err0rless313.tistory.com/entry/Pwnable-%EC%9B%8C%EA%B2%8C%EC%9E%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC)
   - [Defeating Memory Corruption Attacks via Pointer Taintedness Detection](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DSN_05_Pointer_Taintedness.pdf)
   - [The almost complete history of memory corruption attacks](https://media.blackhat.com/bh-us-10/whitepapers/Meer/BlackHat-USA-2010-Meer-History-of-Memory-Corruption-Attacks-wp.pdf)
+  - [Analysing firmwares with Firmware-Mod-Kit(fmk)(Korean)](http://apollo89.com/wordpress/?p=6339)
 
 ## Shellcodes
   - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
