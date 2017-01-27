@@ -11,6 +11,8 @@
     - GOT(global offset table)
 
 ## Exploit techs
+  - XXE(XML external entity)<sub>[@](http://hyunmini.tistory.com/66)[@](https://beistlab.files.wordpress.com/2015/01/grayhash_intro_xxe.pdf)</sub>
+    - SSRF(server-side request forgery)<sub>[@](http://resources.infosecinstitute.com/the-ssrf-vulnerability/)[@](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)</sub>
   - Exploits on Linux
     - Shared library hijacking<sub>[@](http://sosal.tistory.com/125)</sub>
   - Memory corruption
