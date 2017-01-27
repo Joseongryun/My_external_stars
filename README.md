@@ -67,6 +67,7 @@
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
   - [System call convention(Korean)](http://operatingsystems.tistory.com/entry/Kernel-System-Call-Calling-Convention)
   - [Linux system call table](http://www.informatik.htw-dresden.de/~beck/ASM/syscall_list.html)
+  - [so injection & hooking with LD_PRELOAD in Linux(Korean)](http://isuos.tistory.com/128)
 
 
 # ARM
@@ -79,6 +80,7 @@
   - [Diffrence in between “indeed,” “obviously,” and “of course”](http://ell.stackexchange.com/questions/8817/diffrence-in-between-indeed-obviously-and-of-course)
   - [“Of Course” and “Obviously” in writing](http://casnocha.com/2008/08/of-course-and-o.html)
   - [An English word, `tabulate`.](http://www.dictionary.com/browse/tabulation)
+  - [`Yet another`](https://en.wikipedia.org/wiki/Yet_another)
   
 ## Font
   - [Dotted and dotless I](https://en.wikipedia.org/wiki/Dotted_and_dotless_I)
@@ -90,6 +92,7 @@
 ## General
   - [How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
   - [Great guides for you](http://yeogue.tistory.com/11)
+  - [Removing NateOn advertisement](http://blog.naver.com/ufo946/220913491493)
 
 ## Design patterns
   - [Singletone](http://blog.naver.com/pjt3591oo/220906941890)
@@ -112,6 +115,11 @@
   - [Defeating Memory Corruption Attacks via Pointer Taintedness Detection](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DSN_05_Pointer_Taintedness.pdf)
   - [The almost complete history of memory corruption attacks](https://media.blackhat.com/bh-us-10/whitepapers/Meer/BlackHat-USA-2010-Meer-History-of-Memory-Corruption-Attacks-wp.pdf)
   - [Analysing firmwares with Firmware-Mod-Kit(fmk)(Korean)](http://apollo89.com/wordpress/?p=6339)
+  - [Memory protection in Linux](https://bpsecblog.wordpress.com/2016/05/18/memory_protect_linux_2/)
+  - [Using GDB(Korean)](https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/)
+
+## Buffer overflow
+  - [Nginx stack-based buffer overflow(Korean)](http://dokydoky.tistory.com/450)
 
 ## Shellcodes
   - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
@@ -163,6 +171,7 @@
   - [TJCTF - oneshot write-up(Korean)](http://s0ngsari.tistory.com/368)
   - [CodeGate CTF 2016 - Pwnable - Watermelon write-up(Korean)](https://bpsecblog.wordpress.com/2016/03/26/codegate2016_watermelon/)
   - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
+  - [Fusion - level02 write-up](http://hyunmini.tistory.com/97)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
