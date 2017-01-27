@@ -28,4 +28,7 @@
   - [**Online** PHP deobfuscator, _unPHP_](https://www.unphp.net)
 
 ## Disassemblers
-  - [Online disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
+  - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
+
+## Miscellaneous
+  - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
