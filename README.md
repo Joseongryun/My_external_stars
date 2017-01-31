@@ -1,3 +1,7 @@
+# Git
+  - [Git tutorial - Try Git](https://try.github.io/levels/1/challenges/1)
+
+
 # Programming languages
 ## C++
   - [C++ core guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
@@ -68,6 +72,7 @@
   - [System call convention(Korean)](http://operatingsystems.tistory.com/entry/Kernel-System-Call-Calling-Convention)
   - [Linux system call table](http://www.informatik.htw-dresden.de/~beck/ASM/syscall_list.html)
   - [so injection & hooking with LD_PRELOAD in Linux(Korean)](http://isuos.tistory.com/128)
+  - [Defeating Linux kernel(Korean)](http://blog.naver.com/wen12ya/20000572878)
 
 
 # ARM
@@ -93,9 +98,16 @@
   - [How to level up as a developer](http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/)
   - [Great guides for you](http://yeogue.tistory.com/11)
   - [Removing NateOn advertisement](http://blog.naver.com/ufo946/220913491493)
+  - [Opaque pointer](https://en.wikipedia.org/wiki/Opaque_pointer)
+
+## Optimization
+  - [CppCon 2016: Nicholas Ormrod “The strange details of std::string at Facebook"](https://www.youtube.com/watch?v=kPR8h4-qZdk)
 
 ## Design patterns
   - [Singletone](http://blog.naver.com/pjt3591oo/220906941890)
+
+## APIs
+  - [Wikipedia API](http://www.apistore.co.kr/generalApi/generalApiView.do?general_service_seq=111)
 
 
 # Operating system
@@ -117,6 +129,8 @@
   - [Analysing firmwares with Firmware-Mod-Kit(fmk)(Korean)](http://apollo89.com/wordpress/?p=6339)
   - [Memory protection in Linux](https://bpsecblog.wordpress.com/2016/05/18/memory_protect_linux_2/)
   - [Using GDB(Korean)](https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/)
+  - [Abusing native Windows functions for shellcode execution](http://ropgadget.com/posts/abusing_win_functions.html)
+  - [Porting Linux onto Nintendo DS Lite(Korean)](http://mesmerist.blogspot.kr/2007/10/dslinux-ds-litendsl.html?m=1)
 
 ## Buffer overflow
   - [Nginx stack-based buffer overflow(Korean)](http://dokydoky.tistory.com/450)
@@ -179,6 +193,7 @@
   - [The load of the BoF(LOB)](http://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&page=1&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1170881885)
   - [The load of SQL injection(LOS)](https://github.com/red-velvet/los)
   - [pwnable.tw](https://pwnable.tw/)
+  - [SmashTheStack.org](http://smashthestack.org/wargames.html)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
