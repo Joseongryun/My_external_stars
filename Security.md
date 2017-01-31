@@ -45,7 +45,7 @@
     - ROP(return oriented programming)
       - GOT(global offset table) overwrite
       - RTL(return-to-libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
-        - RTL chaining
+        - RTL chaining<sub>[+](http://pwn3r.tistory.com/entry/Docs-Linux-Binary-Exploitation-without-PPR-based-Callchaining)</sub>
       - Return-to-plt<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
       - RTDL(return to dynamic linker)<sub>[@](http://www.slideserve.com/avel/return-to-dynamic-linker)[@](http://blackcon.tistory.com/attachment/cfile3.uf@25402048547742A0239402.pdf)[@](http://gooverto.tistory.com/attachment/cfile28.uf@21305D3B52FD21730AF17D.pdf)[@](http://gooverto.tistory.com/entry/Return-To-DL-Exploitation)</sub>
 
