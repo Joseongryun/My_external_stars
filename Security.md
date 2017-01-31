@@ -2,6 +2,18 @@
 
 
 ## Knowledge base
+  - Linux
+    - Kernel<sub>[map](http://www.makelinux.net/kernel_map/)</sub>
+    - Shell
+      - Reverse shell
+    - GNU C library(libc)
+      - `_IO_FILE`<sub>[@](http://hacksg.tistory.com/35)</sub>
+        - stdin
+        - stdout
+        - stderr
+  - Assembly
+    - Shellcode
+      - Port binding shellcode<sub>[+](http://pwnbit.kr/34)</sub>
   - Call stack<sub>[@](https://en.wikipedia.org/wiki/Call_stack)</sub>
     - Stack frame
       - SFP(saved frame pointer)
@@ -20,6 +32,7 @@
     - Buffer overflow<sup>＝buffer overrun</sup><sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow)[@](http://research.hackerschool.org/Datas/Research_Lecture/overflow.txt)</sub>
       - Saved frame pointer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/sfp.txt)</sub>
       - Fake EBP
+      - Remote buffer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/remote1.txt)[@](http://research.hackerschool.org/Datas/Research_Lecture/remote2.txt)[@](http://www.areanetworking.it/explanation-of-a-remote-buffer-overflow-vulnerability.html)[@](http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/19.pdf)</sub>
     - Stack overflow
     - FSB(format string bug)<sub>[@](http://resources.infosecinstitute.com/format-string-bug-exploration)</sub>
     - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
