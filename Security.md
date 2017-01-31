@@ -11,6 +11,7 @@
         - stdin
         - stdout
         - stderr
+    - `LD_PRELOAD`<sub>[@](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)</sub>
   - Assembly
     - Shellcode
       - Port binding shellcode<sub>[+](http://pwnbit.kr/34)</sub>
@@ -23,6 +24,7 @@
     - GOT(global offset table)
 
 ## Exploit techs
+  - Race condition<sub>[+](http://pwn3r.tistory.com/entry/Docs-Exploiting-Race-Condition-Vulnerability-with-Unix-Signal)</sub>
   - XXE(XML external entity)<sub>[@](http://hyunmini.tistory.com/66)[@](https://beistlab.files.wordpress.com/2015/01/grayhash_intro_xxe.pdf)</sub>
     - SSRF(server-side request forgery)<sub>[@](http://resources.infosecinstitute.com/the-ssrf-vulnerability/)[@](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)</sub>
   - Exploits on Linux
@@ -35,14 +37,17 @@
       - Remote buffer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/remote1.txt)[@](http://research.hackerschool.org/Datas/Research_Lecture/remote2.txt)[@](http://www.areanetworking.it/explanation-of-a-remote-buffer-overflow-vulnerability.html)[@](http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/19.pdf)</sub>
     - Stack overflow
     - FSB(format string bug)<sub>[@](http://resources.infosecinstitute.com/format-string-bug-exploration)</sub>
+      - Double staged FSB<sub>[@](http://pwn3r.tistory.com/attachment/cfile28.uf@2754A34951D4322D2D22A3.pdf)</sub>
     - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
       - Heap-based overflow<sup>?</sup>
       - Heap buffer overflow
       - Double free bug
     - ROP(return oriented programming)
       - GOT(global offset table) overwrite
-      - RTL(return to libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
+      - RTL(return-to-libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
         - RTL chaining
+      - Return-to-plt<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
+      - RTDL(return to dynamic linker)<sub>[@](http://www.slideserve.com/avel/return-to-dynamic-linker)[@](http://blackcon.tistory.com/attachment/cfile3.uf@25402048547742A0239402.pdf)[@](http://gooverto.tistory.com/attachment/cfile28.uf@21305D3B52FD21730AF17D.pdf)[@](http://gooverto.tistory.com/entry/Return-To-DL-Exploitation)</sub>
 
 ## Anti-exploit techs
   - Executable-space protection<sub>[@](https://en.wikipedia.org/wiki/Executable_space_protection)</sub>
