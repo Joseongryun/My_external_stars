@@ -194,6 +194,8 @@
   - [The load of SQL injection(LOS)](https://github.com/red-velvet/los)
   - [pwnable.tw](https://pwnable.tw/)
   - [SmashTheStack.org](http://smashthestack.org/wargames.html)
+  - [CodeShell.kr](https://codeshell.kr/scoreboard)
+  - [stypr's Stereotyped Challenges(Web)](https://chall.stypr.com/)
 
 ## Groups
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
