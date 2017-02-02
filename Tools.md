@@ -32,3 +32,4 @@
 
 ## Miscellaneous
   - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
+  - [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
