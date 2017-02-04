@@ -29,6 +29,7 @@
 
 ## Disassemblers
   - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
+  - [IDA Pro (with Hex-Rays)](https://drive.google.com/file/d/0B7MLdZHLoLnRdnlRaGotTkhyaGs/view)
 
 ## Miscellaneous
   - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
