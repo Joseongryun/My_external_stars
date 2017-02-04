@@ -15,6 +15,7 @@
   - Assembly
     - Shellcode
       - Port binding shellcode<sub>[+](http://pwnbit.kr/34)</sub>
+      - Polymorphic shellcode<sub>[@](https://gist.github.com/wlzla000/3b3b23b71d0cd9dd29086929247e3ad5#file-polymorphic_shellcode_meaning-korean-md)</sub>
   - Call stack<sub>[@](https://en.wikipedia.org/wiki/Call_stack)</sub>
     - Stack frame
       - SFP(saved frame pointer)
