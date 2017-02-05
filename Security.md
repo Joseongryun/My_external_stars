@@ -49,6 +49,7 @@
         - RTL chaining<sub>[+](http://pwn3r.tistory.com/entry/Docs-Linux-Binary-Exploitation-without-PPR-based-Callchaining)</sub>
       - Return-to-plt<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
       - RTDL(return to dynamic linker)<sub>[@](http://www.slideserve.com/avel/return-to-dynamic-linker)[@](http://blackcon.tistory.com/attachment/cfile3.uf@25402048547742A0239402.pdf)[@](http://gooverto.tistory.com/attachment/cfile28.uf@21305D3B52FD21730AF17D.pdf)[@](http://gooverto.tistory.com/entry/Return-To-DL-Exploitation)</sub>
+      - Sigreturn ROP<sub>[@](http://0x36.blogspot.kr/2014/06/sigreturn-rop-exploitation-technique.html)</sub>
 
 ## Anti-exploit techs
   - Executable-space protection<sub>[@](https://en.wikipedia.org/wiki/Executable_space_protection)</sub>
