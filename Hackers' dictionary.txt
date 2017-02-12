@@ -1,0 +1,5 @@
+Hackers' dictionary
+
+leak(릭)	어떤 원하는 값을 유출시키다, 어떤 원하는 값을 빼 내다
+guess		무엇을 추측하다
+guessing(게싱)	무엇을 추측
