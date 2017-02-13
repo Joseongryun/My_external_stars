@@ -6,6 +6,7 @@
     - Kernel<sub>[map](http://www.makelinux.net/kernel_map/)</sub>
     - Shell
       - Reverse shell
+      - Bash<sub>[@](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)</sub>
     - GNU C library(libc)
       - `_IO_FILE`<sub>[@](http://hacksg.tistory.com/35)</sub>
         - stdin
@@ -38,13 +39,13 @@
   - Exploits on Linux
     - Shared library hijacking<sub>[@](http://sosal.tistory.com/125)</sub>
   - Memory corruption
-    - Integer overflow
-    - Buffer overflow<sup>＝buffer overrun</sup><sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow)[@](http://research.hackerschool.org/Datas/Research_Lecture/overflow.txt)</sub>
-      - Saved frame pointer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/sfp.txt)</sub>
-      - Fake EBP
+    - Integer overflow<sub>[@](https://www.exploit-db.com/docs/28477.pdf)</sub>
+    - Buffer overflow<sup>＝buffer overrun</sup><sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow)[@](http://research.hackerschool.org/Datas/Research_Lecture/overflow.txt)[@](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU37C3l_zNAhVLnZQKHTaMDaUQFggaMAA&url=http%3A%2F%2Freverserbobt.tistory.com%2Fattachment%2Fik2.pdf&usg=AFQjCNEAxotScMS1sX9VDrmZNVJra7IhWg&sig2=SXN-GS4KHoUcDxi_TerIzA&bvm=bv.127178174,d.dGo)</sub>
+      - Saved frame pointer overflow(stack-based off-by-one)<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/sfp.txt)[@](https://sploitfun.wordpress.com/2015/06/07/off-by-one-vulnerability-stack-based-2/)[@](http://s2kiess.blog.me/220070346721)[@](http://orang.tistory.com/entry/%ED%95%B4%EC%BB%A4%EC%8A%A4%EC%BF%A8-LOB-golem-darkknight-by-ORANG)</sub>
+      - Fake EBP<sub>[@](http://jhchoi781.tistory.com/49)</sub>
       - Remote buffer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/remote1.txt)[@](http://research.hackerschool.org/Datas/Research_Lecture/remote2.txt)[@](http://www.areanetworking.it/explanation-of-a-remote-buffer-overflow-vulnerability.html)[@](http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/19.pdf)</sub>
     - ROP(return oriented programming)
-      - GOT(global offset table) overwrite
+      - GOT(global offset table) overwrite<sub>[@](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)</sub>
       - RTL(return-to-libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
         - RTL chaining<sub>[+](http://pwn3r.tistory.com/entry/Docs-Linux-Binary-Exploitation-without-PPR-based-Callchaining)</sub>
       - Return-to-plt<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
@@ -54,8 +55,9 @@
     - FSB(format string bug)<sub>[@](http://resources.infosecinstitute.com/format-string-bug-exploration)</sub>
       - Double staged FSB<sub>[@](http://pwn3r.tistory.com/attachment/cfile28.uf@2754A34951D4322D2D22A3.pdf)</sub>
     - Heap exploits<sub>[Malloc Des-Maleficarum](http://phrack.org/issues/66/10.html)</sub><sub>[@](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)</sub><sub>[@](http://madbee.tistory.com/6)</sub>
+      - UAF(use-after-free)<sub>[@](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)[@](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwiR4ZL9lvzNAhXLlZQKHY2yD2IQFgg9MAc&url=http%3A%2F%2Fcd80.tistory.com%2Fattachment%2Fcfile5.uf%402726DE505317492D17DB49.pdf&usg=AFQjCNF0zt9UVCFshz9ynAs88qJ-hKS5Hw&sig2=X-Iv3tLg3uHy0dkOySdsXQ&bvm=bv.127178174,d.dGo)</sub>
       - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
-        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)</sub>
+        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)[@](http://coffeenix.net/data_repository/txt/Corezine-3-2.txt)[@](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)</sub>
           - The House of Prime
           - The House of Mind
           - The House of Force
@@ -63,6 +65,7 @@
           - The House of Spirit
           - The House of Chaos
         - Heap buffer overflow
+        - Heap-based off-by-one<sub>[@](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)[@](https://googleprojectzero.blogspot.kr/2014/08/the-poisoned-nul-byte-2014-edition.html)</sub>
         - Double free bug
 
 ## Anti-exploit techs
@@ -78,5 +81,5 @@
   - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)</sub>
   - RELRO(relocation read-only)
   - SEHOP(structured exception handler overwrite protection)<sub>: a feature of Windows; [@](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)[!](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)</sub>
-  - CFG(control flow guard)
+  - CFG(control flow guard)<sub>[@](http://lucasg.github.io/2017/02/05/Control-Flow-Guard/)</sub>
   - RFG(return flow guard)<sub>[@](http://xlab.tencent.com/en/2016/11/02/return-flow-guard/)</sub>
