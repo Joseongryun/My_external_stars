@@ -31,6 +31,13 @@
   - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
   - [IDA Pro (with Hex-Rays)](https://drive.google.com/file/d/0B7MLdZHLoLnRdnlRaGotTkhyaGs/view)
 
+## Debuggers
+  - [Debugger, _qira_](https://github.com/BinaryAnalysisPlatform/qira)
+  - OllyDbg
+  - WinDbg
+
 ## Miscellaneous
   - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
+  - [Memory corruption mitigation detector, _checksec.sh_](http://tk-blog.blogspot.kr/2009/02/checksec.html)
+    - [How it works(Korean)](https://bpsecblog.wordpress.com/2016/06/28/memory_protect_linux_5/)
   - [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
