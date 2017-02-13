@@ -131,6 +131,7 @@
   - [Using GDB(Korean)](https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/)
   - [Abusing native Windows functions for shellcode execution](http://ropgadget.com/posts/abusing_win_functions.html)
   - [Porting Linux onto Nintendo DS Lite(Korean)](http://mesmerist.blogspot.kr/2007/10/dslinux-ds-litendsl.html?m=1)
+  - [Attacking Javascript engines(Korean)](http://cd80.tistory.com/104)
 
 ## Buffer overflow
   - [Nginx stack-based buffer overflow(Korean)](http://dokydoky.tistory.com/450)
@@ -186,6 +187,7 @@
   - [CodeGate CTF 2016 - Pwnable - Watermelon write-up(Korean)](https://bpsecblog.wordpress.com/2016/03/26/codegate2016_watermelon/)
   - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
   - [Fusion - level02 write-up](http://hyunmini.tistory.com/97)
+  - [CodeGate 2015 write-ups](http://www.hacure.com/b/it_tip-259)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
