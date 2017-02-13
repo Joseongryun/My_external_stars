@@ -23,6 +23,13 @@
   - Lazy binding
     - PLT(procedure linkage table)
     - GOT(global offset table)
+  - Heap<sub>[how2heap](https://github.com/shellphish/how2heap)[@](http://tribal1012.tistory.com/45)</sub>
+    - `malloc`<sub>[glibc's](http://mashirogod.dothome.co.kr/index.php/2016/05/11/glibc-malloc-1/)[@](http://tribal1012.tistory.com/78)</sub>
+    - LFH(low fragmentation heap)<sub>[@](http://blog.naver.com/websearch/70084608475)</sub>
+  - Wrapper functions<sub>[@](https://en.wikipedia.org/wiki/Wrapper_function#Library_functions_and_system_calls)</sub>
+    - gets & fgets<sub>[@](http://tribal1012.tistory.com/9)</sub>
+  - 32-bits and 64-bits
+    - Calling conventions<sub>[@](http://tribal1012.tistory.com/13)</sub>
 
 ## Exploit techs
   - Race condition<sub>[+](http://pwn3r.tistory.com/entry/Docs-Exploiting-Race-Condition-Vulnerability-with-Unix-Signal)</sub>
@@ -39,17 +46,24 @@
     - Stack overflow
     - FSB(format string bug)<sub>[@](http://resources.infosecinstitute.com/format-string-bug-exploration)</sub>
       - Double staged FSB<sub>[@](http://pwn3r.tistory.com/attachment/cfile28.uf@2754A34951D4322D2D22A3.pdf)</sub>
-    - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
-      - Heap-based overflow<sup>?</sup>
-      - Heap buffer overflow
-      - Double free bug
+    - Heap exploits<sub>[Malloc Des-Maleficarum](http://phrack.org/issues/66/10.html)</sub><sub>[@](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)</sub><sub>[@](http://madbee.tistory.com/6)</sub>
+      - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
+        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)</sub>
+          - The House of Prime
+          - The House of Mind
+          - The House of Force
+          - The House of Lore
+          - The House of Spirit
+          - The House of Chaos
+        - Heap buffer overflow
+        - Double free bug
     - ROP(return oriented programming)
       - GOT(global offset table) overwrite
       - RTL(return-to-libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
         - RTL chaining<sub>[+](http://pwn3r.tistory.com/entry/Docs-Linux-Binary-Exploitation-without-PPR-based-Callchaining)</sub>
       - Return-to-plt<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
       - RTDL(return to dynamic linker)<sub>[@](http://www.slideserve.com/avel/return-to-dynamic-linker)[@](http://blackcon.tistory.com/attachment/cfile3.uf@25402048547742A0239402.pdf)[@](http://gooverto.tistory.com/attachment/cfile28.uf@21305D3B52FD21730AF17D.pdf)[@](http://gooverto.tistory.com/entry/Return-To-DL-Exploitation)</sub>
-      - Sigreturn ROP<sub>[@](http://0x36.blogspot.kr/2014/06/sigreturn-rop-exploitation-technique.html)</sub>
+      - Sigreturn ROP<sub>[@](http://0x36.blogspot.kr/2014/06/sigreturn-rop-exploitation-technique.html)[@](http://tribal1012.tistory.com/16)</sub>
 
 ## Anti-exploit techs
   - Executable-space protection<sub>[@](https://en.wikipedia.org/wiki/Executable_space_protection)</sub>
@@ -61,6 +75,8 @@
   - StackGuard
   - SSP(stack-smashing protection)<sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow_protection#GNU_Compiler_Collection_.28GCC.29)</sub>
     - Stack Canary
-  - PIE(position independant executable)
+  - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)</sub>
   - RELRO(relocation read-only)
   - SEHOP(structured exception handler overwrite protection)<sub>: a feature of Windows; [@](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)[!](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)</sub>
+  - CFG(control flow guard)
+  - RFG(return flow guard)<sub>[@](http://xlab.tencent.com/en/2016/11/02/return-flow-guard/)</sub>
