@@ -3,6 +3,7 @@
 
 ## Knowledge base
   - Linux
+    - `fini_array`
     - Kernel<sub>[map](http://www.makelinux.net/kernel_map/)</sub>
     - Shell
       - Reverse shell
@@ -25,7 +26,7 @@
     - PLT(procedure linkage table)
     - GOT(global offset table)
   - Heap<sub>[how2heap](https://github.com/shellphish/how2heap)[@](http://tribal1012.tistory.com/45)</sub>
-    - `malloc`<sub>[glibc's](http://mashirogod.dothome.co.kr/index.php/2016/05/11/glibc-malloc-1/)[@](http://tribal1012.tistory.com/78)</sub>
+    - `malloc`<sub>[glibc's](http://mashirogod.dothome.co.kr/index.php/2016/05/11/glibc-malloc-1/)[@](http://tribal1012.tistory.com/78)[@](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)[@](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/)</sub>
     - LFH(low fragmentation heap)<sub>[@](http://blog.naver.com/websearch/70084608475)</sub>
   - Wrapper functions<sub>[@](https://en.wikipedia.org/wiki/Wrapper_function#Library_functions_and_system_calls)</sub>
     - gets & fgets<sub>[@](http://tribal1012.tistory.com/9)</sub>
@@ -33,6 +34,12 @@
     - Calling conventions<sub>[@](http://tribal1012.tistory.com/13)</sub>
 
 ## Exploit techs
+  - Shellshock
+  - RCE(remote command execution)
+  - RFI(remote file inclusion)
+  - MITM(man in the middle)
+  - DoS
+    - DDoS
   - Race condition<sub>[+](http://pwn3r.tistory.com/entry/Docs-Exploiting-Race-Condition-Vulnerability-with-Unix-Signal)</sub>
   - XXE(XML external entity)<sub>[@](http://hyunmini.tistory.com/66)[@](https://beistlab.files.wordpress.com/2015/01/grayhash_intro_xxe.pdf)</sub>
     - SSRF(server-side request forgery)<sub>[@](http://resources.infosecinstitute.com/the-ssrf-vulnerability/)[@](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit)</sub>
@@ -44,7 +51,7 @@
       - Saved frame pointer overflow(stack-based off-by-one)<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/sfp.txt)[@](https://sploitfun.wordpress.com/2015/06/07/off-by-one-vulnerability-stack-based-2/)[@](http://s2kiess.blog.me/220070346721)[@](http://orang.tistory.com/entry/%ED%95%B4%EC%BB%A4%EC%8A%A4%EC%BF%A8-LOB-golem-darkknight-by-ORANG)</sub>
       - Fake EBP<sub>[@](http://jhchoi781.tistory.com/49)</sub>
       - Remote buffer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/remote1.txt)[@](http://research.hackerschool.org/Datas/Research_Lecture/remote2.txt)[@](http://www.areanetworking.it/explanation-of-a-remote-buffer-overflow-vulnerability.html)[@](http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/19.pdf)</sub>
-    - ROP(return oriented programming)
+    - ROP(return oriented programming)<sub>[@](http://kblab.tistory.com/223)</sub>
       - GOT(global offset table) overwrite<sub>[@](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)</sub>
       - RTL(return-to-libc) attack<sub>[@](https://en.wikipedia.org/wiki/Return-to-libc_attack)</sub>
         - RTL chaining<sub>[+](http://pwn3r.tistory.com/entry/Docs-Linux-Binary-Exploitation-without-PPR-based-Callchaining)</sub>
@@ -57,7 +64,7 @@
     - Heap exploits<sub>[Malloc Des-Maleficarum](http://phrack.org/issues/66/10.html)</sub><sub>[@](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)</sub><sub>[@](http://madbee.tistory.com/6)</sub>
       - UAF(use-after-free)<sub>[@](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)[@](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwiR4ZL9lvzNAhXLlZQKHY2yD2IQFgg9MAc&url=http%3A%2F%2Fcd80.tistory.com%2Fattachment%2Fcfile5.uf%402726DE505317492D17DB49.pdf&usg=AFQjCNF0zt9UVCFshz9ynAs88qJ-hKS5Hw&sig2=X-Iv3tLg3uHy0dkOySdsXQ&bvm=bv.127178174,d.dGo)</sub>
       - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
-        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)[@](http://coffeenix.net/data_repository/txt/Corezine-3-2.txt)[@](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)</sub>
+        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)[@](http://coffeenix.net/data_repository/txt/Corezine-3-2.txt)[@](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)[@](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)</sub>
           - The House of Prime
           - The House of Mind
           - The House of Force
