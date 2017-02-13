@@ -1,9 +1,8 @@
 # Terms
 
-
 ## Knowledge base
   - Linux
-    - `fini_array`
+    - `fini_array`<sub>[?](http://yhcting.tistory.com/50)</sub>
     - Kernel<sub>[map](http://www.makelinux.net/kernel_map/)</sub>
     - Shell
       - Reverse shell
@@ -64,7 +63,7 @@
     - Heap exploits<sub>[Malloc Des-Maleficarum](http://phrack.org/issues/66/10.html)</sub><sub>[@](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html)</sub><sub>[@](http://madbee.tistory.com/6)</sub>
       - UAF(use-after-free)<sub>[@](https://sploitfun.wordpress.com/2015/06/16/use-after-free/)[@](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwiR4ZL9lvzNAhXLlZQKHY2yD2IQFgg9MAc&url=http%3A%2F%2Fcd80.tistory.com%2Fattachment%2Fcfile5.uf%402726DE505317492D17DB49.pdf&usg=AFQjCNF0zt9UVCFshz9ynAs88qJ-hKS5Hw&sig2=X-Iv3tLg3uHy0dkOySdsXQ&bvm=bv.127178174,d.dGo)</sub>
       - Heap corruption<sub>[@](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/lec13-HeapAttacks.pdf)</sub>
-        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)[@](http://coffeenix.net/data_repository/txt/Corezine-3-2.txt)[@](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)[@](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)</sub>
+        - Heap overflow<sub>[@](http://tribal1012.tistory.com/77)[@](http://coffeenix.net/data_repository/txt/Corezine-3-2.txt)[@](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/)[@](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/)[+](https://bpsecblog.wordpress.com/2016/08/31/translate_fastbin/)</sub>
           - The House of Prime
           - The House of Mind
           - The House of Force
