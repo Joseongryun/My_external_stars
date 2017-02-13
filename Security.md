@@ -69,7 +69,6 @@
           - The House of Force
           - The House of Lore
           - The House of Spirit
-          - The House of Chaos
         - Heap buffer overflow
         - Heap-based off-by-one<sub>[@](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)[@](https://googleprojectzero.blogspot.kr/2014/08/the-poisoned-nul-byte-2014-edition.html)</sub>
         - Double free bug
