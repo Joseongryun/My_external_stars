@@ -4,9 +4,9 @@
   - HDCON
   - ISEC
   - SECUINSIDE
-  - WITHCON(WhiteHat contest)
-  - 중·고등학생 정보 보호 올림피아
-  - Argos hacking festival
+  - WITHCON(WhiteHat contest)
+  - 중·고등학생 정보 보호 올림피아드
+  - Argos hacking festival
   - Christmas CTF
   - HISChall
   - Holy shield
