@@ -11,3 +11,5 @@
 
   - 논리학입문 14판, 반양장 
     - Irving M. Copi,Carl Cohen,Kenneth McMahon 공저/박만준,윤진각 공역 | 경문사(한헌주)
+
+  - Car Hacker's Handbook : 자동차 보안 위협과 해킹 기술의 모든 것
