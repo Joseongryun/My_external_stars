@@ -4,14 +4,14 @@
   - HDCON
   - ISEC
   - SECUINSIDE
-  - WITHCON(WhiteHat contest)
-  - 중·고등학생 정보 보호 올림피아드
-  - Argos hacking festival
+  - WITHCON(WhiteHat contest)
+  - 중·고등학생 정보 보호 올림피아드
+  - Argos hacking festival
   - Christmas CTF
   - HISChall
   - Holy shield
   - Just for fun CTF
-  - NewHeart 청소년 화이트 해커 경진 대
+  - NewHeart 청소년 화이트 해커 경진 대회
   - Power of XX
   - Sunrin CTF(선린 CTF)
   - YISF
