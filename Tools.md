@@ -41,3 +41,4 @@
   - [Memory corruption mitigation detector, _checksec.sh_](http://tk-blog.blogspot.kr/2009/02/checksec.html)
     - [How it works(Korean)](https://bpsecblog.wordpress.com/2016/06/28/memory_protect_linux_5/)
   - [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
+  - [**Online** penetration test tools - Subdomain finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
