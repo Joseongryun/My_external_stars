@@ -52,6 +52,7 @@
 
 ## Vulnerabilities
   - [AtomBombing: Zero-Day Windows exploit](http://www.ghacks.net/2016/10/29/atombombing-zero-day-windows-exploit/)
+  - [Windows BoF(Korean)](http://blog.sweetchip.kr/261)
 
 ## Windows API
   - [Windows APIs about the heap(Korean)](http://bbolmin.tistory.com/71)
@@ -66,6 +67,7 @@
   - [Abusing .CTORS and .DTORS for fun & profit](http://blog.naver.com/sokoban/80018591062)
   - [.ctors and .dtors section(Korean)](http://blog.naver.com/window__han/80173963615)
   - [What happens before the `main()` is called](https://kldp.org/node/68354)
+  - [Linux x86 Program Start Up(How the heck do we get to `main()`)](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
   - [Ubuntu's security features](https://wiki.ubuntu.com/Security/Features)
   - [Hooking using `LD_PRELOAD`(Korean)](http://hyunmini.tistory.com/55)
   - [glibc's `heap_info` structure(Korean)](http://s0ngsari.tistory.com/entry/BlackHat-Draft-heap-info)
@@ -133,6 +135,7 @@
   - [Abusing native Windows functions for shellcode execution](http://ropgadget.com/posts/abusing_win_functions.html)
   - [Porting Linux onto Nintendo DS Lite(Korean)](http://mesmerist.blogspot.kr/2007/10/dslinux-ds-litendsl.html?m=1)
   - [Attacking Javascript engines(Korean)](http://cd80.tistory.com/104)
+  - [oxqo's HackLab](http://satanel001.tistory.com/)
 
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
@@ -196,6 +199,9 @@
   - [H3X0R CTF 2 - Unexploitable write-up](http://314hack.tistory.com/entry/H3X0R-CTF2-UNEXPLOITABLE-WRITEUP)
   - [Fusion - level02 write-up](http://hyunmini.tistory.com/97)
   - [CodeGate 2015 write-ups](http://www.hacure.com/b/it_tip-259)
+  - [LoB Fedora Core `gate` → `iron_golem` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-gate-irongolem)
+  - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://smleenull.tistory.com/309)
+  - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
