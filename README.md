@@ -73,6 +73,7 @@
   - [Linux system call table](http://www.informatik.htw-dresden.de/~beck/ASM/syscall_list.html)
   - [so injection & hooking with LD_PRELOAD in Linux(Korean)](http://isuos.tistory.com/128)
   - [Defeating Linux kernel(Korean)](http://blog.naver.com/wen12ya/20000572878)
+  - [User identifier](https://en.wikipedia.org/wiki/User_identifier)
 
 
 # ARM
@@ -155,10 +156,14 @@
 ## Reverse engineering
   - [How to figure out the entry points of ELFs](http://reverseengineering.stackexchange.com/a/3816/18736)
   - [Basic reversing(Korean)](http://blog.naver.com/hack_ple/220884255393)
+  - [KakaoTalk Mac version DB decryption(Korean)](https://www.bpak.org/blog/2014/06/kakaotalkmac-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A7%A5%EB%B2%84%EC%A0%84-db-%EB%B3%B5%ED%98%B8%ED%99%94/)
+  - [Reverse Engineering 101](https://0x00sec.org/t/reverse-engineering-101/1233)
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
   - [Union SQL injection(Korean)](http://m.blog.naver.com/koromoon/120172851234)
+  - [False SQL injection(Korean)](http://sakuya.kr/68#comment18011009)
+  - [MySQL Injection in `Update`, `Insert` and `Delete`](https://osandamalith.com/2017/02/08/mysql-injection-in-update-insert-and-delete/)
 
 ## Format string bug
   - [Format String Bug_ using _fake\_dtors](http://cafe.naver.com/secuholic/931)
