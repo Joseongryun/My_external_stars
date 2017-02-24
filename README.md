@@ -136,6 +136,7 @@
   - [Porting Linux onto Nintendo DS Lite(Korean)](http://mesmerist.blogspot.kr/2007/10/dslinux-ds-litendsl.html?m=1)
   - [Attacking Javascript engines(Korean)](http://cd80.tistory.com/104)
   - [oxqo's HackLab](http://satanel001.tistory.com/)
+  - [_GrayNews_ - Who has the power in bug bounty program?(Korean)](http://news.grayhash.com/post/4)
 
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
