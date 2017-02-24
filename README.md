@@ -34,6 +34,10 @@
   - [MDN - SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence)
 
 
+# Mathematics
+  - [Basic linear algebra(Korean)](http://blog.naver.com/defxgenh/220318201355)
+
+
 # Computer science
 ## Miscellaneous
   - [Derandomization 1](http://web.cs.iastate.edu/~pavan/633/lec14.pdf)
