@@ -3,6 +3,7 @@
 ## Encoding / decoding tools
   - [**Online** Base16/Base32/Base64 encoding/decoding tool](http://abys.io/base16)
   - [**Online** Morse code translator](http://morsecode.scphillips.com/translator.html)
+  - [**Online** complete URI encoder](http://2tap.com/javascript-percent-encoder/)
 
 ## Decryption tools
   - [**Online** Vigenere solver](https://www.guballa.de/vigenere-solver)
@@ -25,7 +26,8 @@
   - [**Online** PHP formatter](http://beta.phpformatter.com/)
 
 ## Code obfuscators/deobfuscators
-  - [**Online** PHP deobfuscator, _unPHP_](https://www.unphp.net)
+  - [**Online** PHP deobfuscator, _unPHP_.](https://www.unphp.net)
+  - [**Online** JavaScript array-plus-bang obfuscator, _JSFuck_.](http://www.jsfuck.com/)
 
 ## Disassemblers
   - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
