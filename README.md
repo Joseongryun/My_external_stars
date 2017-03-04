@@ -145,6 +145,9 @@
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
 
+## JSON hijacking
+  - [JSON hijacking](http://haacked.com/archive/2009/06/25/json-hijacking.aspx/)
+
 ## Buffer overflow
   - [Nginx stack-based buffer overflow(Korean)](http://dokydoky.tistory.com/450)
 
@@ -166,6 +169,7 @@
   - [Basic reversing(Korean)](http://blog.naver.com/hack_ple/220884255393)
   - [KakaoTalk Mac version DB decryption(Korean)](https://www.bpak.org/blog/2014/06/kakaotalkmac-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A7%A5%EB%B2%84%EC%A0%84-db-%EB%B3%B5%ED%98%B8%ED%99%94/)
   - [Reverse Engineering 101](https://0x00sec.org/t/reverse-engineering-101/1233)
+  - [Code virtualization(Korean)](http://blogsabo.ahnlab.com/2158)
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
