@@ -38,6 +38,10 @@
   - [Basic linear algebra(Korean)](http://blog.naver.com/defxgenh/220318201355)
 
 
+# Information science
+  - [Ontology](https://en.wikipedia.org/wiki/Ontology_(information_science))
+
+
 # Computer science
 ## Miscellaneous
   - [Derandomization 1](http://web.cs.iastate.edu/~pavan/633/lec14.pdf)
@@ -170,6 +174,7 @@
   - [KakaoTalk Mac version DB decryption(Korean)](https://www.bpak.org/blog/2014/06/kakaotalkmac-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A7%A5%EB%B2%84%EC%A0%84-db-%EB%B3%B5%ED%98%B8%ED%99%94/)
   - [Reverse Engineering 101](https://0x00sec.org/t/reverse-engineering-101/1233)
   - [Code virtualization(Korean)](http://blogsabo.ahnlab.com/2158)
+  - [Crackme, Keygenme.](https://en.wikipedia.org/wiki/Crackme)
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
