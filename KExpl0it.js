@@ -8,7 +8,7 @@ const code_to_char = charCode => String.fromCharCode(charCode);
 const isASCII = string => /^[\x00-\x7F]+$/.test(string);
 const isPrintableASCII = string => /^[\x20-\x7F]+$/.test(string);
 
-const reverse = string => string.split("").reverse().join("");
+const reverse = string => Array.from(string).reverse().join("");
 
 const chunk = (string, size) => string.match(new RegExp(`.{1,${size}}`, "g"));
 const hex2bin = hex => chunk(hex, 2).map(xs => String.fromCharCode(Number.parseInt(xs, 16))).join("");
@@ -19,3 +19,7 @@ const base64_decode = atob;
 
 const custom1 = cipher => get_char_data(cipher).map(read_base10_as_base8).map(code_to_char).filter(isPrintableASCII).join("");
 const codeshell_kr_dummy64_decode = cipher => xor_string(dec2bin(base64_encode(hex2bin(reverse(cipher))), 2), 125);
+
+const mod = (dividend, divisor) => ((dividend % divisor) + divisor) % divisor;
+const isA2Z = string => /^[a-z]+$/i.test(string);
+const UNUSABLE__caesar_shift = (cipher, key) => Array.from(cipher).map(ch => isA2Z(ch) ? String.fromCharCode(mod(ch.charCodeAt() + key, 2600000000)) : ch).join("");
