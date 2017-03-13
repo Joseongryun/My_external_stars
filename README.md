@@ -152,11 +152,10 @@
 ## Vulnerability analysis
   - [How to improve your vulnerability analysis ability(Korean)](http://boanin.tistory.com/205)
   - [What is CVE for hackers?(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
+  - [What is CVE?(Korean)](http://www.boannews.com/media/view.asp?idx=47656)
 
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
-  - [What is CVE?(Korean)](http://www.boannews.com/media/view.asp?idx=47656)
-  - [Tips about CVE(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
 
 ## JSON hijacking
   - [JSON hijacking](http://haacked.com/archive/2009/06/25/json-hijacking.aspx/)
