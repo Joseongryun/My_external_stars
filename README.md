@@ -146,8 +146,14 @@
   - [oxqo's HackLab](http://satanel001.tistory.com/)
   - [_GrayNews_ - Who has the power in bug bounty program?(Korean)](http://news.grayhash.com/post/4)
 
+## Vulnerability analysis
+  - [How to improve your vulnerability analysis ability(Korean)](http://boanin.tistory.com/205)
+  -
+
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
+  - [What is CVE?(Korean)](http://www.boannews.com/media/view.asp?idx=47656)
+  - [Tips about CVE(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
 
 ## JSON hijacking
   - [JSON hijacking](http://haacked.com/archive/2009/06/25/json-hijacking.aspx/)
@@ -183,7 +189,7 @@
   - [MySQL Injection in `Update`, `Insert` and `Delete`](https://osandamalith.com/2017/02/08/mysql-injection-in-update-insert-and-delete/)
 
 ## Format string bug
-  - [Format String Bug_ using _fake\_dtors](http://cafe.naver.com/secuholic/931)
+  - [Format String Bug_ using _fake\_dtors](http://cafe.naver.com/secuholic/931)
 
 ## Return-oriented programming
   - [Return-oriented programming explained easily](http://cd80.tistory.com/86)
