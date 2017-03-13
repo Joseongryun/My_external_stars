@@ -148,7 +148,7 @@
 
 ## Vulnerability analysis
   - [How to improve your vulnerability analysis ability(Korean)](http://boanin.tistory.com/205)
-  -
+  - [What is CVE for hackers?(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
 
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
