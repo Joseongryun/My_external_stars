@@ -85,6 +85,9 @@
   - [Defeating Linux kernel(Korean)](http://blog.naver.com/wen12ya/20000572878)
   - [User identifier](https://en.wikipedia.org/wiki/User_identifier)
 
+## Heap
+  - [_glibc_'s dynamic memory management(Korean)](http://studyfoss.egloos.com/5206220)
+
 
 # ARM
   - [ARMv8 Shellcodes from ‘A’ to ‘Z’](https://arxiv.org/pdf/1608.03415.pdf)
