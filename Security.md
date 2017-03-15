@@ -1,6 +1,10 @@
 # Terms
 
 ## Knowledge base
+  - Web
+    - Cookies
+      - HttpOnly<sub>[@](https://www.owasp.org/index.php/HttpOnly)[@](http://its21c.net/224)</sub>
+    - Sessions
   - Linux
     - `fini_array`<sub>[?](http://yhcting.tistory.com/50)</sub>
     - Kernel<sub>[map](http://www.makelinux.net/kernel_map/)</sub>
@@ -33,6 +37,8 @@
     - Calling conventions<sub>[@](http://tribal1012.tistory.com/13)</sub>
 
 ## Exploit techs
+  - XSS(cross-site scripting)<sub>[@](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))</sub>
+    - XST(cross-stie tracing)<sub>[@](https://www.owasp.org/index.php/Cross_Site_Tracing)</sub>
   - Shellshock
   - RCE(remote command execution)
   - RFI(remote file inclusion)
@@ -79,11 +85,11 @@
       - NX bit(No-eXecute)<sub>[@](http://s2kiess.blog.me/220027464834)[@](https://en.wikipedia.org/wiki/NX_bit)</sub>
   - ASCII armor<sub>[@](http://s2kiess.blog.me/220028141641)</sub><sup>≠[binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding)</sup>
   - ASLR(address space layout randomization)<sub>[@](https://en.wikipedia.org/wiki/Address_space_layout_randomization)</sub>
+  - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)</sub>
   - StackShield
   - StackGuard
   - SSP(stack-smashing protection)<sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow_protection#GNU_Compiler_Collection_.28GCC.29)</sub>
     - Stack Canary
-  - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)</sub>
   - RELRO(relocation read-only)
   - SEHOP(structured exception handler overwrite protection)<sub>: a feature of Windows; [@](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)[!](https://support.microsoft.com/ko-kr/help/956607/how-to-enable-structured-exception-handling-overwrite-protection-sehop-in-windows-operating-systems)</sub>
   - CFG(control flow guard)<sub>[@](http://lucasg.github.io/2017/02/05/Control-Flow-Guard/)</sub>
