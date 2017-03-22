@@ -1,1 +1,4 @@
 1. Displaying values as base 10 and reading it as base 8 can be done; vice versa.
+
+-
+To decompile stuff with Hex-Rays, press the F5 key.
