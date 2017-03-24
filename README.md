@@ -233,7 +233,8 @@
   - [CodeGate 2015 write-ups](http://www.hacure.com/b/it_tip-259)
   - [LoB Fedora Core `gate` → `iron_golem` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-gate-irongolem)
   - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://smleenull.tistory.com/309)
-  - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)[_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools)(Korean)](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
+  - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
+  - [_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools)(Korean)](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
@@ -249,3 +250,9 @@
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
   - [Google project Zero](https://googleprojectzero.blogspot.kr/)
   - [Phrack](http://phrack.org/issues/69/1.html)
+
+
+
+# Miscellaneous
+  - [I sang-seob - Literature and society(Korean)](http://www.seelotus.com/gojeon/hyeon-dae/bi-pyung/mun-hak-kwa-sa-hoe.htm)
+  - [Oxymoron](https://en.wikipedia.org/wiki/Oxymoron)
