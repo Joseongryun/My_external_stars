@@ -18,6 +18,9 @@
   - [Important operations in Intel assembly(Korean)](http://gall.dcinside.com/board/view/?id=programming&no=485176)
   - [x86 Instruction Set Reference - POPA/POPAD(Pop All General-Purpose Registers)](http://x86.renejeschke.de/html/file_module_x86_id_249.html)
 
+## CSS
+  - [_Mozilla_ - CSS Grid](https://www.mozilla.org/en-US/developer/css-grid/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=mar23-2017)
+
 
 # Web
 ## Miscellaneous
@@ -84,6 +87,7 @@
   - [so injection & hooking with LD_PRELOAD in Linux(Korean)](http://isuos.tistory.com/128)
   - [Defeating Linux kernel(Korean)](http://blog.naver.com/wen12ya/20000572878)
   - [User identifier](https://en.wikipedia.org/wiki/User_identifier)
+  - [About `xinetd`(Korean)](http://lily.mmu.ac.kr/lecture/08sm/Fedora2/7jang/2.htm)
 
 ## Heap
   - [_glibc_'s dynamic memory management(Korean)](http://studyfoss.egloos.com/5206220)
@@ -198,6 +202,12 @@
   - [Return oriented programming exploit(Korean)](http://teamcrak.tistory.com/332)
   - [Return to Libc(Korean)](http://blog.naver.com/s2kiess/220024491744)
   - [Return Oriented Programming and ROPgadget tool](http://shell-storm.org/blog/Return-Oriented-Programming-and-ROPgadget-tool/)
+  - [ROP in Windows(Korean)](https://prezi.com/3gezx-znb5ew/windows-rop/)
+  - [_SkullSecurity_ - Ron Bowes - ‘ropasaurusrex: a primer on return-oriented programming’(Korean)](https://yous.be/2014/03/19/ropasaurusrex-a-primer-on-return-oriented-programming/)
+  - [Ye0nny's Plaid 2013 - ropasaurusrex write-up (with settings)(Korean)](http://blog.naver.com/best0937/220851020145)
+  - [70ry's Plaid 2013 - ropasaurusrex write-up(Korean)](http://70ry.tistory.com/entry/ropasaurusrex)
+  - [s0ngsari's Plaid 2013 - ropasaurusrex write-up(Korean) (with the binary)](http://s0ngsari.tistory.com/entry/Plaid-CTF-2013-ropasaurusrex)
+  - [xer0s - Great documents about ROP(Korean)](http://xer0s.tistory.com/49)
 
 ## Use After Free
   - [CWE(Common Weakness Enumeration) definitions - Use After Free](https://cwe.mitre.org/data/definitions/416.html)
@@ -223,7 +233,7 @@
   - [CodeGate 2015 write-ups](http://www.hacure.com/b/it_tip-259)
   - [LoB Fedora Core `gate` → `iron_golem` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-gate-irongolem)
   - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://smleenull.tistory.com/309)
-  - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
+  - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)[_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools)(Korean)](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
