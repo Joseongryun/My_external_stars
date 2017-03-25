@@ -39,7 +39,8 @@
   - WinDbg
 
 ## Miscellaneous
-  - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
+  - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)http://ropshell.com/
+  - [**Online** ROP gadget finder, _ROPShell_.](http://ropshell.com/)
   - [Memory corruption mitigation detector, _checksec.sh_](http://tk-blog.blogspot.kr/2009/02/checksec.html)
     - [How it works(Korean)](https://bpsecblog.wordpress.com/2016/06/28/memory_protect_linux_5/)
   - [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
