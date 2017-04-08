@@ -88,6 +88,11 @@
   - [Defeating Linux kernel(Korean)](http://blog.naver.com/wen12ya/20000572878)
   - [User identifier](https://en.wikipedia.org/wiki/User_identifier)
   - [About `xinetd`(Korean)](http://lily.mmu.ac.kr/lecture/08sm/Fedora2/7jang/2.htm)
+  - [Embedded programming(including stuff about calling `main()`)(Korean)](http://muyu.tistory.com/131)
+  - [How `main()` is called(Korean)](http://blog.naver.com/ekthatkxkd/220823251720)
+  - [Thread local storage(TLS)(Korean)](http://egloos.zum.com/studyfoss/v/5259841)
+  - [Linux kernel - `task_struct`(Korean)](http://sonseungha.tistory.com/243)
+  - [Developing (static, shared, dynamic) libraries for Linux(Korean)](http://blog.naver.com/xogml_blog/130138049704)
 
 ## Heap
   - [_glibc_'s dynamic memory management(Korean)](http://studyfoss.egloos.com/5206220)
@@ -153,6 +158,9 @@
   - [oxqo's HackLab](http://satanel001.tistory.com/)
   - [_GrayNews_ - Who has the power in bug bounty program?(Korean)](http://news.grayhash.com/post/4)
 
+## Address space layout randomization(ASLR)
+  - [Various ways to disable the ASLR feature(Korean)](http://m-youngzzang-for20.tistory.com/123)
+
 ## Vulnerability analysis
   - [How to improve your vulnerability analysis ability(Korean)](http://boanin.tistory.com/205)
   - [What is CVE for hackers?(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
@@ -166,6 +174,8 @@
 
 ## Buffer overflow
   - [Nginx stack-based buffer overflow(Korean)](http://dokydoky.tistory.com/450)
+  - [Stack-smashing protector(SSP)(Korean)](http://egloos.zum.com/studyfoss/v/5279959)
+  - [Windows Buffer Overflow -Security Cookie Overwrite-(Korean)](http://egloos.zum.com/lucid7/v/1405966)
 
 ## Shellcodes
   - [Alphanumeric shellcode](https://en.wikipedia.org/wiki/Alphanumeric_shellcode)
@@ -235,6 +245,7 @@
   - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://smleenull.tistory.com/309)
   - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
   - [_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools)(Korean)](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
+  - [CodeGate 2017 - babypwn write-up(Korean)](http://holinder4s.tistory.com/64)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
