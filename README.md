@@ -60,6 +60,7 @@
 # Windows
 ## General
   - [PE header](http://www.reversecore.com/23)
+  - [Getting the address of the PEB & TEB(Korean)](http://5unkn0wn.tistory.com/7)
 
 ## Vulnerabilities
   - [AtomBombing: Zero-Day Windows exploit](http://www.ghacks.net/2016/10/29/atombombing-zero-day-windows-exploit/)
@@ -93,6 +94,8 @@
   - [Thread local storage(TLS)(Korean)](http://egloos.zum.com/studyfoss/v/5259841)
   - [Linux kernel - `task_struct`(Korean)](http://sonseungha.tistory.com/243)
   - [Developing (static, shared, dynamic) libraries for Linux(Korean)](http://blog.naver.com/xogml_blog/130138049704)
+  - [How the dynamic linker links(deep details)(Korean)](https://bpsecblog.wordpress.com/2016/03/07/about_got_plt_1/)
+  - [How linkers make executable ELF images(Korean)](http://recipes.egloos.com/5011946)
 
 ## Heap
   - [_glibc_'s dynamic memory management(Korean)](http://studyfoss.egloos.com/5206220)
@@ -157,6 +160,8 @@
   - [Attacking Javascript engines(Korean)](http://cd80.tistory.com/104)
   - [oxqo's HackLab](http://satanel001.tistory.com/)
   - [_GrayNews_ - Who has the power in bug bounty program?(Korean)](http://news.grayhash.com/post/4)
+  - [Introducing ROKRAT](http://blog.talosintelligence.com/2017/04/introducing-rokrat.html)
+  - [Hack the virtual memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
 
 ## Address space layout randomization(ASLR)
   - [Various ways to disable the ASLR feature(Korean)](http://m-youngzzang-for20.tistory.com/123)
