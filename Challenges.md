@@ -1,6 +1,11 @@
 # Competitions
+## Global
+  - DEF CON CTF
+  - SECCON CTF
   - CodeGate
     - CodeGate Junior
+
+## IDK
   - HDCON
   - ISEC
   - SECUINSIDE
@@ -15,9 +20,7 @@
   - Power of XX
   - Sunrin CTF(선린 CTF)
   - YISF
-  - DEF CON CTF
   - HIT CON CTF
-  - SECCON CTF
   - Belluminar WCTF
   - NullCon CTF
   - Plaid CTF(PCTF)
@@ -29,3 +32,6 @@
   - Ahnlab Security Wave
   - HUST Hacking Festival
   - B10S JFF
+
+## Korean
+  - [육군 해킹 방어 대회](http://www.boannews.com/media/view.asp?idx=54129)
