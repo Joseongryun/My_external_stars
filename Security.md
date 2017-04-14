@@ -78,6 +78,16 @@
         - Heap buffer overflow
         - Heap-based off-by-one<sub>[@](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)[@](https://googleprojectzero.blogspot.kr/2014/08/the-poisoned-nul-byte-2014-edition.html)</sub>
         - Double free bug
+  - Side-channel attack
+    - Cache attack
+    - Timing attack<sub>[@](https://en.wikipedia.org/wiki/Timing_attack)</sub>
+    - Power-monitoring attack<sub>[@](https://en.wikipedia.org/wiki/Power_analysis)</sub>
+    - Electromagnetic attack<sub>[@](https://en.wikipedia.org/wiki/Electromagnetic_attack)</sub>
+    - Acoustic cryptanalysis<sub>[@](https://en.wikipedia.org/wiki/Acoustic_cryptanalysis)</sub>
+    - Differential fault analysis<sub>[@](https://en.wikipedia.org/wiki/Differential_fault_analysis)</sub>
+    - Data remanence<sub>[@](https://en.wikipedia.org/wiki/Data_remanence)</sub>
+    - Row hammer<sub>[@](https://en.wikipedia.org/wiki/Row_hammer)</sub>
+      - Drammer
 
 ## Anti-exploit techs
   - Executable-space protection<sub>[@](https://en.wikipedia.org/wiki/Executable_space_protection)</sub>
