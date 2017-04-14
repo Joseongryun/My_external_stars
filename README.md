@@ -112,6 +112,8 @@
   - [“Of Course” and “Obviously” in writing](http://casnocha.com/2008/08/of-course-and-o.html)
   - [An English word, `tabulate`.](http://www.dictionary.com/browse/tabulation)
   - [`Yet another`](https://en.wikipedia.org/wiki/Yet_another)
+  - [Great vowel shift(Korean)](https://namu.wiki/w/%EB%8C%80%EB%AA%A8%EC%9D%8C%EC%B6%94%EC%9D%B4)
+  - [English(Korean)](https://namu.wiki/w/%EC%98%81%EC%96%B4)
   
 ## Font
   - [Dotted and dotless I](https://en.wikipedia.org/wiki/Dotted_and_dotless_I)
