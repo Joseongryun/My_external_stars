@@ -1,6 +1,8 @@
 # Terms
 
 ## Knowledge base
+  - Cryptology
+    - Diffie-Hellman key exchange<sub>[@](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)</sub>
   - Web
     - Cookies
       - HttpOnly<sub>[@](https://www.owasp.org/index.php/HttpOnly)[@](http://its21c.net/224)</sub>
@@ -78,7 +80,7 @@
         - Heap buffer overflow
         - Heap-based off-by-one<sub>[@](https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based/)[@](https://googleprojectzero.blogspot.kr/2014/08/the-poisoned-nul-byte-2014-edition.html)</sub>
         - Double free bug
-  - Side-channel attack
+  - Side-channel attack<sub>[@](https://en.wikipedia.org/wiki/Side-channel_attack)</sub>
     - Cache attack
     - Timing attack<sub>[@](https://en.wikipedia.org/wiki/Timing_attack)</sub>
     - Power-monitoring attack<sub>[@](https://en.wikipedia.org/wiki/Power_analysis)</sub>
