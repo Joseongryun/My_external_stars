@@ -1,6 +1,6 @@
 ﻿
 # Why?
-## 1; Why do I have to use `;cat |`?
+## 1; Why do I have to use `(...; cat) | ...`?
 
 # 'cause
 ## [1](http://satanel001.tistory.com/82)
