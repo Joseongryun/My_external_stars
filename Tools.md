@@ -35,8 +35,9 @@
   - [_angr_, a multi-architecture binary analysis framework.](http://angr.io/)
     - [_angr_ documentation](https://media.readthedocs.org/pdf/angr/latest/angr.pdf)
     - [Using _angr_ to solve problems - basic :kr:](http://bitxflow.synology.me/wordpress/?p=460)
-    - [Using _angr_ to solve problems - basic :kr:](http://bitxflow.synology.me/wordpress/?p=509)
+    - [Using _angr_ to solve problems - easy :kr:](http://bitxflow.synology.me/wordpress/?p=509)
     - [Using _angr_ to solve CTF challenges :jp:](http://saotake.hatenablog.com/entry/2016/06/03/213100)
+    - [Solving reverse engineering problems with _angr_ :kr:](http://revers3r.tistory.com/424)
 
 ## Constraint-solver
   - _claripy_(https://github.com/angr/claripy)
