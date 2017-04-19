@@ -114,11 +114,13 @@
   - [`Yet another`](https://en.wikipedia.org/wiki/Yet_another)
   - [Great vowel shift(Korean)](https://namu.wiki/w/%EB%8C%80%EB%AA%A8%EC%9D%8C%EC%B6%94%EC%9D%B4)
   - [English(Korean)](https://namu.wiki/w/%EC%98%81%EC%96%B4)
+  - [Business English in a logical point of view(Korean)](http://m.post.naver.com/my/series/detail.nhn?seriesNo=164978&memberNo=7238053&prevVolumeNo=4580673)
 
 ### Grammar
   - [There are no comments / There is no comment](https://english.stackexchange.com/questions/1931/there-are-no-comments-there-is-no-comment)
   - [Singular or plural verb after ‘no’?](https://english.stackexchange.com/questions/197798/singular-or-plural-verb-after-no)
   - [Singular Or Plural Nouns After 'No'/ 'Any' ?](https://www.englishforums.com/English/SingularPluralNounsAfter/vbqx/post.htm)
+  - [Singular or plural after `no`?(Korean)](https://www.ybmbooks.com/reader/question/question_view_frm.asp?questionSEQ=2999&mode=S&category_code=025001000&nowPage=715)
 
 ## Font
   - [Dotted and dotless I](https://en.wikipedia.org/wiki/Dotted_and_dotless_I)
@@ -170,6 +172,7 @@
   - [Introducing ROKRAT](http://blog.talosintelligence.com/2017/04/introducing-rokrat.html)
   - [Hack the virtual memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
   - [Getting IP addresses within emails(Korean)](http://jwprogramming.tistory.com/187)
+  - [One Line of Code that Compromises Your Server(`session-secret`)](https://martinfowler.com/articles/session-secret.html)
 
 ## Kernel exploitation
   - [OS X kernel exploitation(basic)(Korean)](http://theori.io/research/korean/osx-kernel-exploit-1)
