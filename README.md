@@ -165,6 +165,12 @@
   - [Introducing ROKRAT](http://blog.talosintelligence.com/2017/04/introducing-rokrat.html)
   - [Hack the virtual memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
 
+## Browser hacking
+  - [_Mashirogod_ - First step to browser exploitation](http://mashirogod.dothome.co.kr/index.php/2017/01/07/first-step-to-browser-exploitation/)
+
+## Searching hacking
+  - [Developers are unknowingly posting their credentials online](https://medium.com/hacker-daily/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84)
+
 ## Address space layout randomization(ASLR)
   - [Various ways to disable the ASLR feature(Korean)](http://m-youngzzang-for20.tistory.com/123)
 
@@ -204,6 +210,7 @@
   - [Reverse Engineering 101](https://0x00sec.org/t/reverse-engineering-101/1233)
   - [Code virtualization(Korean)](http://blogsabo.ahnlab.com/2158)
   - [Crackme, Keygenme.](https://en.wikipedia.org/wiki/Crackme)
+  - [Virtual method table(`vtable`)(Korean)](https://ko.wikipedia.org/wiki/%EA%B0%80%EC%83%81_%EB%A9%94%EC%86%8C%EB%93%9C_%ED%85%8C%EC%9D%B4%EB%B8%94)
 
 ## SQL injection
   - [SQL injection knowhow](http://blog.naver.com/rkwhr415/220536526433)
