@@ -276,7 +276,8 @@
   - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up :kr:](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
   - [_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools) :kr:](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
   - [_Hackerz on the ship_ - DEF CON 2015 - r0pbaby write-up(Korean) -- **ROP**](https://bpsecblog.wordpress.com/2017/02/20/defcon2015-r0pbaby/)
-  - [CODEGATE 2017 prequals - babypwn write-up(Korean) -- **ROP**](http://holinder4s.tistory.com/64)
+  - [CODEGATE 2017 prequals - babypwn write-up -- **ROP** :kr:](http://holinder4s.tistory.com/64)
+  - [:star: CODEGATE 2017 prequals - EasyCrack 101 write-up -- **semantic execution(with _angr_)** :kr:](http://holinder4s.tistory.com/68)
   - [CODEGATE 2017 prequals - EasyCrack 101 write-up -- **semantic execution(with _angr_)**](http://hacktracking.blogspot.kr/2017/02/codegate-2017-ctf-easycrack-101-rev-325.html)
 
 ## Wargames
