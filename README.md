@@ -9,7 +9,7 @@
 ## PHP
   - [PHP magic hashes](https://www.whitehatsec.com/blog/magic-hashes/)
   - [Bypassing `addslashes()` :kr:](http://laughfool.tistory.com/11)
-  - [SQL injection with bypassing `addslashes()`, `magic_quotes_gpc`(Korean)](http://blog.skinfosec.com/220535626029)
+  - [SQL injection with bypassing `addslashes()`, `magic_quotes_gpc` :kr:](http://blog.skinfosec.com/220535626029)
 
 ## Python
   - [Jump to Python(Korean)](https://wikidocs.net/2)
@@ -298,5 +298,5 @@
 
 
 # Miscellaneous
-  - [I sang-seob - Literature and society(Korean)](http://www.seelotus.com/gojeon/hyeon-dae/bi-pyung/mun-hak-kwa-sa-hoe.htm)
+  - [I sang-seob - Literature and society :kr:](http://www.seelotus.com/gojeon/hyeon-dae/bi-pyung/mun-hak-kwa-sa-hoe.htm)
   - [Oxymoron](https://en.wikipedia.org/wiki/Oxymoron)
