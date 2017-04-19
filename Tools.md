@@ -40,7 +40,9 @@
     - [Solving reverse engineering problems with _angr_ :kr:](http://revers3r.tistory.com/424)
 
 ## Constraint-solver
-  - _claripy_(https://github.com/angr/claripy)
+  - [_claripy_](https://github.com/angr/claripy)
+  - [_Z3_, a high performance theorem prover](https://z3prover.github.io/api/html/z3.html)
+    - [What is Z3 :kr:](http://revers3r.tistory.com/95)
 
 ## Disassemblers
   - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
@@ -52,9 +54,10 @@
   - WinDbg
 
 ## Miscellaneous
-  - [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)http://ropshell.com/
-  - [**Online** ROP gadget finder, _ROPShell_.](http://ropshell.com/)
-  - [Memory corruption mitigation detector, _checksec.sh_](http://tk-blog.blogspot.kr/2009/02/checksec.html)
-    - [How it works(Korean)](https://bpsecblog.wordpress.com/2016/06/28/memory_protect_linux_5/)
-  - [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
-  - [**Online** penetration test tools - Subdomain finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+- [Linux exploit suggester](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)http://ropshell.com/
+- [**Online** ROP gadget finder, _ROPShell_.](http://ropshell.com/)
+- [Memory corruption mitigation detector, _checksec.sh_](http://tk-blog.blogspot.kr/2009/02/checksec.html)
+  - [How it works :kr:](https://bpsecblog.wordpress.com/2016/06/28/memory_protect_linux_5/)
+- [**Online** IRC client, _KiwiIRC_.](https://kiwiirc.com/client)
+- [**Online** penetration test tools - Subdomain finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+- [_Nmap_, a utility for network discovery & security auditing.](https://nmap.org/)
