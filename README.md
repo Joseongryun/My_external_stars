@@ -272,7 +272,8 @@
   - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://smleenull.tistory.com/309)
   - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up(Korean)](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
   - [_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools)(Korean)](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
-  - [CodeGate 2017 - babypwn write-up(Korean)](http://holinder4s.tistory.com/64)
+  - [_Hackerz on the ship_ - DEF CON 2015 - r0pbaby write-up(Korean) -- **ROP**](https://bpsecblog.wordpress.com/2017/02/20/defcon2015-r0pbaby/)
+  - [CodeGate 2017 - babypwn write-up(Korean) -- **ROP**](http://holinder4s.tistory.com/64)
 
 ## Wargames
   - [Wargame list](http://blog.sweetchip.kr/354)
@@ -288,6 +289,7 @@
   - [Hacker Group](http://cafe.naver.com/hacktheplanet)
   - [Google project Zero](https://googleprojectzero.blogspot.kr/)
   - [Phrack](http://phrack.org/issues/69/1.html)
+  - [Black Hat](https://www.blackhat.com/)
 
 
 
