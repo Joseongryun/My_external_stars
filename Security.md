@@ -39,6 +39,7 @@
     - gets & fgets<sub>[@](http://tribal1012.tistory.com/9)</sub>
   - 32-bits and 64-bits
     - Calling conventions<sub>[@](http://tribal1012.tistory.com/13)</sub>
+  - Symbolic execution<sub>[@](https://en.wikipedia.org/wiki/Symbolic_execution)</sub>
 
 ## Exploit techs
   - XSS(cross-site scripting)<sub>[@](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))</sub>
