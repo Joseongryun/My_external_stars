@@ -165,6 +165,9 @@
   - [Introducing ROKRAT](http://blog.talosintelligence.com/2017/04/introducing-rokrat.html)
   - [Hack the virtual memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
 
+## Kernel exploitation
+  - [OS X kernel exploitation(basic)(Korean)](http://theori.io/research/korean/osx-kernel-exploit-1)
+
 ## Browser hacking
   - [_Mashirogod_ - First step to browser exploitation](http://mashirogod.dothome.co.kr/index.php/2017/01/07/first-step-to-browser-exploitation/)
 
