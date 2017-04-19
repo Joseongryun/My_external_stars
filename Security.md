@@ -88,7 +88,7 @@
     - Acoustic cryptanalysis<sub>[@](https://en.wikipedia.org/wiki/Acoustic_cryptanalysis)</sub>
     - Differential fault analysis<sub>[@](https://en.wikipedia.org/wiki/Differential_fault_analysis)</sub>
     - Data remanence<sub>[@](https://en.wikipedia.org/wiki/Data_remanence)</sub>
-    - Row hammer<sub>[@](https://en.wikipedia.org/wiki/Row_hammer)</sub>
+    - Row hammer<sub>[@](https://en.wikipedia.org/wiki/Row_hammer)[@](http://blog.alyac.co.kr/574)</sub>
       - Drammer
 
 ## Anti-exploit techs
