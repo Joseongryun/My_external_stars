@@ -10,3 +10,8 @@
 - Nickname: `Mashirogod`.
 - [Blog<sub>Naver</sub>](http://blog.naver.com/pwn_expoit)
 - [Blog](http://mashirogod.dothome.co.kr/)
+
+## anch0vy
+- Nickname: `anch0vy`.
+- [Blog<sub>Naver</sub>](http://blog.naver.com/aaaa875)
+- [Blog<sub>Tistory</sub>](http://anch0vy.tistory.com/notice/1)
