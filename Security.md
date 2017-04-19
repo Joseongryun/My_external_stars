@@ -19,6 +19,7 @@
         - stdout
         - stderr
     - `LD_PRELOAD`<sub>[@](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)</sub>
+    - The executable file path within the environmental variables<sub>[@](http://www.hackerschool.org/HS_Boards/zboard.php?id=QNA_system&page=2&sn1=&divpage=1&sn=off&ss=on&sc=on&select_arrange=headnum&desc=asc&no=1833)</sub>
   - Assembly
     - `NOP` sled
     - Shellcode
