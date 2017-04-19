@@ -100,7 +100,7 @@
       - NX bit(No-eXecute)<sub>[@](http://s2kiess.blog.me/220027464834)[@](https://en.wikipedia.org/wiki/NX_bit)</sub>
   - ASCII armor<sub>[@](http://s2kiess.blog.me/220028141641)</sub><sup>≠[binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding)</sup>
   - ASLR(address space layout randomization)<sub>[@](https://en.wikipedia.org/wiki/Address_space_layout_randomization)</sub>
-  - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)</sub>
+  - PIE(position independant executable)<sub>[@](http://tribal1012.tistory.com/64)[@](https://access.redhat.com/blogs/766093/posts/1975793)</sub>
   - StackShield
   - StackGuard
   - SSP(stack-smashing protection)<sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow_protection#GNU_Compiler_Collection_.28GCC.29)</sub>
