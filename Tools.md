@@ -30,9 +30,15 @@
   - [**Online** JavaScript array-plus-bang obfuscator, _JSFuck_.](http://www.jsfuck.com/)
 
 ## Binary analysis
-  - _BinDiff_
+- _BinDiff_
   ### Dynamic symbolic execution tools
-    - [_angr_, a multi-architecture binary analysis framework.](http://angr.io/)
+  - [_angr_, a multi-architecture binary analysis framework.](http://angr.io/)
+    - [_angr_ documentation](https://media.readthedocs.org/pdf/angr/latest/angr.pdf)
+    - [Using _angr_ to solve problems - basic :kr:](http://bitxflow.synology.me/wordpress/?p=460)
+    - [Using _angr_ to solve problems - basic :kr:](http://bitxflow.synology.me/wordpress/?p=509)
+
+## Constraint-solver
+  - _claripy_(https://github.com/angr/claripy)
 
 ## Disassemblers
   - [**Online** disassembler(assembly editor), _ODAweb_.](http://www.onlinedisassembler.com/odaweb/)
