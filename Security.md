@@ -20,6 +20,7 @@
         - stderr
     - `LD_PRELOAD`<sub>[@](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)</sub>
   - Assembly
+    - NOP sled
     - Shellcode
       - Port binding shellcode<sub>[+](http://pwnbit.kr/34)</sub>
       - Polymorphic shellcode<sub>[@](https://gist.github.com/wlzla000/3b3b23b71d0cd9dd29086929247e3ad5#file-polymorphic_shellcode_meaning-korean-md)</sub>
@@ -57,6 +58,7 @@
     - Buffer overflow<sup>＝buffer overrun</sup><sub>[@](https://en.wikipedia.org/wiki/Buffer_overflow)[@](http://research.hackerschool.org/Datas/Research_Lecture/overflow.txt)[@](https://www.google.co.kr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiU37C3l_zNAhVLnZQKHTaMDaUQFggaMAA&url=http%3A%2F%2Freverserbobt.tistory.com%2Fattachment%2Fik2.pdf&usg=AFQjCNEAxotScMS1sX9VDrmZNVJra7IhWg&sig2=SXN-GS4KHoUcDxi_TerIzA&bvm=bv.127178174,d.dGo)</sub>
       - Saved frame pointer overflow(stack-based off-by-one)<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/sfp.txt)[@](https://sploitfun.wordpress.com/2015/06/07/off-by-one-vulnerability-stack-based-2/)[@](http://s2kiess.blog.me/220070346721)[@](http://orang.tistory.com/entry/%ED%95%B4%EC%BB%A4%EC%8A%A4%EC%BF%A8-LOB-golem-darkknight-by-ORANG)</sub>
       - Fake EBP<sub>[@](http://jhchoi781.tistory.com/49)</sub>
+      - RET sled
       - Remote buffer overflow<sub>[@](http://research.hackerschool.org/Datas/Research_Lecture/remote1.txt)[@](http://research.hackerschool.org/Datas/Research_Lecture/remote2.txt)[@](http://www.areanetworking.it/explanation-of-a-remote-buffer-overflow-vulnerability.html)[@](http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/19.pdf)</sub>
     - ROP(return oriented programming)<sub>[@](http://kblab.tistory.com/223)</sub>
       - GOT(global offset table) overwrite<sub>[@](https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-iii/)</sub>
