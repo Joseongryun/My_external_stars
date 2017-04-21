@@ -1,9 +1,9 @@
 # System hacking road
 
-1. Solved FTZ, LOB.
+1. Solve FTZ, LOB.<sub>January, 2017.</sub>
 2. Read articles about Canary(security cookie), etc..
-3. Read `CTF 정보보안 콘테스트 챌린지 북` and study memory leaking.
-4. Solved the pwnables.
+3. Read `CTF 정보보안 콘테스트 챌린지 북` and study memory leaking.<sub>March, 2017.</sub>
+4. Solve the pwnables.
 
 
 # Currently I should do:
