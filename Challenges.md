@@ -8,6 +8,9 @@
       - KST, February 10<sup>th</sup>, 2017.
     - CODEGATE 2017
       - KST, April 12<sup>th</sup>, 2017.
+  - [Plaid CTF(PCTF)](http://plaidctf.com/)
+    - Plaid CTF 2017
+      - 17:00 EDT, April 21<sup>st</sup>, 2017. - EDT, April 23<sup>rd</sup>, 2017.
 
 ## IDK
   - HDCON
@@ -27,9 +30,6 @@
   - HIT CON CTF
   - Belluminar WCTF
   - NullCon CTF
-  - Plaid CTF(PCTF)
-    - Plaid CTF 2017
-      - 17:00 EDT, April 21<sup>st</sup>, 2017. - EDT, April 23<sup>rd</sup>, 2017.
   - Cyber Warfare ISEC
   - Beistlab Hacking Contest JFF
   - 동명대학교 해킹 챔피언십
