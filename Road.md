@@ -8,6 +8,8 @@
 
 # Currently I should do:
 
+I thank to [Hong, seung-pyo(Phantom@TeamH4C)](https://www.slideshare.net/H4C/ss-59722847).
+
 ## to pwn
 
 1. Hackerz on the ship - 우리 집에 gdb 있는데 메모리 보고 갈래?
