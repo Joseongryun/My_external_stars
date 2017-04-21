@@ -2,8 +2,12 @@
 ## Global
   - DEF CON CTF
   - SECCON CTF
-  - CodeGate
-    - CodeGate Junior
+  - CODEGATE
+    - CODEGATE Junior
+    - CODEGATE 2017 pre-qualification
+      - KST, February 10<sup>th</sup>, 2017.
+    - CODEGATE 2017
+      - KST, April 12<sup>th</sup>, 2017.
 
 ## IDK
   - HDCON
