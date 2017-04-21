@@ -296,6 +296,10 @@
   - [Phrack](http://phrack.org/issues/69/1.html)
   - [Black Hat](https://www.blackhat.com/)
 
+## Best of the best
+- [BEST OF THE BEST :kr:](https://www.kitribob.kr/)
+- [HackerSchool.org - Welcome to BOB! :kr:](http://hackerschool.org/Sub_Html/HS_Posting/?uid=44)
+- [What kind of people does BoB want? :kr:](http://www.boannews.com/media/view.asp?idx=46779)
 
 
 # Miscellaneous
