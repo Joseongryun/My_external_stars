@@ -12,7 +12,7 @@
   - [SQL injection with bypassing `addslashes()`, `magic_quotes_gpc` :kr:](http://blog.skinfosec.com/220535626029)
 
 ## Python
-  - [Jump to Python(Korean)](https://wikidocs.net/2)
+  - [Jump to Python :kr:](https://wikidocs.net/2)
 
 ## Assembly
   - [Important operations in Intel assembly :kr:](http://gall.dcinside.com/board/view/?id=programming&no=485176)
@@ -38,7 +38,7 @@
 
 
 # Mathematics
-  - [Basic linear algebra(Korean)](http://blog.naver.com/defxgenh/220318201355)
+  - [Basic linear algebra :kr:](http://blog.naver.com/defxgenh/220318201355)
 
 
 # Information science
@@ -158,7 +158,7 @@
   - [_Phrack.org_ - Attacking JavaScript Engines: A case study of JavaScriptCore and CVE-2016-4622](http://phrack.org/papers/attacking_javascript_engines.html)
   - [Offensive computer security lectures](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
   - [Hacking: The Art of Exploitation](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
-  - [Wargames and documents for pwnable(system hacking)(Korean)](http://err0rless313.tistory.com/entry/Pwnable-%EC%9B%8C%EA%B2%8C%EC%9E%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC)
+  - [Wargames and documents for pwnable(system hacking) :kr:](http://err0rless313.tistory.com/entry/Pwnable-%EC%9B%8C%EA%B2%8C%EC%9E%84-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%A0%95%EB%A6%AC)
   - [Defeating Memory Corruption Attacks via Pointer Taintedness Detection](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/DSN_05_Pointer_Taintedness.pdf)
   - [The almost complete history of memory corruption attacks](https://media.blackhat.com/bh-us-10/whitepapers/Meer/BlackHat-USA-2010-Meer-History-of-Memory-Corruption-Attacks-wp.pdf)
   - [Analysing firmwares with Firmware-Mod-Kit(fmk) :kr:](http://apollo89.com/wordpress/?p=6339)
@@ -168,7 +168,7 @@
   - [Porting Linux onto Nintendo DS Lite :kr:](http://mesmerist.blogspot.kr/2007/10/dslinux-ds-litendsl.html?m=1)
   - [Attacking Javascript engines :kr:](http://cd80.tistory.com/104)
   - [oxqo's HackLab](http://satanel001.tistory.com/)
-  - [_GrayNews_ - Who has the power in bug bounty program?(Korean)](http://news.grayhash.com/post/4)
+  - [_GrayNews_ - Who has the power in bug bounty program? :kr:](http://news.grayhash.com/post/4)
   - [Introducing ROKRAT](http://blog.talosintelligence.com/2017/04/introducing-rokrat.html)
   - [Hack the virtual memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
   - [Getting IP addresses within emails :kr:](http://jwprogramming.tistory.com/187)
@@ -184,12 +184,12 @@
   - [Developers are unknowingly posting their credentials online](https://medium.com/hacker-daily/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84)
 
 ## Address space layout randomization(ASLR)
-  - [Various ways to disable the ASLR feature(Korean)](http://m-youngzzang-for20.tistory.com/123)
+  - [Various ways to disable the ASLR feature :kr:](http://m-youngzzang-for20.tistory.com/123)
 
 ## Vulnerability analysis
-  - [How to improve your vulnerability analysis ability(Korean)](http://boanin.tistory.com/205)
-  - [What is CVE for hackers?(Korean)](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
-  - [What is CVE?(Korean)](http://www.boannews.com/media/view.asp?idx=47656)
+  - [How to improve your vulnerability analysis ability :kr:](http://boanin.tistory.com/205)
+  - [What is CVE for hackers? :kr:](http://c8korea.blogspot.kr/2013/04/cvecommon-vulnerabilities-and-exposures.html)
+  - [What is CVE? :kr:](http://www.boannews.com/media/view.asp?idx=47656)
 
 ## XSS(cross-site scripting)
   - [How to Exploit XSS with an Image](http://resources.infosecinstitute.com/exploit-xss-image/)
@@ -251,7 +251,7 @@
 
 ## Use After Free
   - [CWE(Common Weakness Enumeration) definitions - Use After Free](https://cwe.mitre.org/data/definitions/416.html)
-  - [Shayete's article about _Use After Free_(Korean)](http://shayete.tistory.com/entry/7-Use-After-Free)
+  - [Shayete's article about _Use After Free_ :kr:](http://shayete.tistory.com/entry/7-Use-After-Free)
   - [GreHack - Statically Detecting Use After Free on Binary Code](http://binsec.gforge.inria.fr/pdf/detection-use-after-free-GREHACK13.pdf)
 
 ## SSRF
@@ -275,7 +275,7 @@
   - [_smleenull_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up :kr:](http://smleenull.tistory.com/309)
   - [_I sang-seop_'s LoB Fedora Core `dark_eyes` → `hell_fire` write-up :kr:](http://k1rha.tistory.com/entry/LOB-%ED%8E%98%EB%8F%84%EB%9D%BC-%EC%9B%90%EC%A0%95%EB%8C%80-3-darkeyes-hellfire)
   - [_Hackerz on the ship_ - DEF CON 2016 - Feed Me write-up (with pwntools) :kr:](https://bpsecblog.wordpress.com/2017/01/18/defcon2016-feed-me/)
-  - [_Hackerz on the ship_ - DEF CON 2015 - r0pbaby write-up(Korean) -- **ROP**](https://bpsecblog.wordpress.com/2017/02/20/defcon2015-r0pbaby/)
+  - [_Hackerz on the ship_ - DEF CON 2015 - r0pbaby write-up :kr: -- **ROP**](https://bpsecblog.wordpress.com/2017/02/20/defcon2015-r0pbaby/)
   - [CODEGATE 2017 prequals - babypwn write-up -- **ROP** :kr:](http://holinder4s.tistory.com/64)
   - [:star: CODEGATE 2017 prequals - EasyCrack 101 write-up -- **semantic execution(with _angr_)** :kr:](http://holinder4s.tistory.com/68)
   - [CODEGATE 2017 prequals - EasyCrack 101 write-up -- **semantic execution(with _angr_)**](http://hacktracking.blogspot.kr/2017/02/codegate-2017-ctf-easycrack-101-rev-325.html)
